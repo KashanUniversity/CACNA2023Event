@@ -273,3 +273,29 @@ footer hr {
         width: 100%;
     }
 }
+/* cover */
+@media (max-width: 800px) {
+    section.normal .cover {
+        width: 100%;
+        float: none;
+        display: block;
+        margin-left: 0;
+    }
+}
+/* slider */
+@media (max-height: 700px) {
+    section.slider h1 {
+        font-size: 33px;
+    }
+    section.slider h2 {
+        font-size: 23px;
+    }
+    section.slider .arrow-icon {
+        bottom: 10px;
+    }
+}
+@media (max-height: 500px) {
+    section.slider .arrow-icon {
+        display: none;
+    }
+}
