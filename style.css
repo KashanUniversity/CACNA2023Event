@@ -142,9 +142,7 @@ ul.speakers li .speaker-university {
 }
 
 /* topics */
-ul.topics {
-
-}
+ul.topics {}
 ul.topics li {
     display: flex;
     flex-direction: row;
