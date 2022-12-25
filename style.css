@@ -98,9 +98,7 @@ section.normal ul {
 
 section.normal .cover {
     width: 440px;
-    float: right;
     display: inline-block;
-    margin-left: 50px;
     border-radius: 7px;
     border: 2px solid #0acbf8;
 }
@@ -220,9 +218,6 @@ footer .row .col {
 	flex-direction: column;
 	padding: 10px;
 }
-footer ul {
-	margin-right: 15px;
-}
 footer ul li {
 	display: flex;
 	flex-direction: row;
@@ -236,7 +231,6 @@ footer ul li a {
 footer ul li svg {
 	width: 25px;
 	height: 15px;
-	margin-left: 10px;
 	color: rgb(156, 163, 175);
 }
 footer ul li span {}
@@ -259,6 +253,28 @@ footer hr {
     100% {
         transform: translateY(0);
     }
+}
+
+/* multi-languages */
+html[dir=rtl] footer ul {
+	margin-right: 15px;
+}
+html[dir=ltr] footer ul {
+	margin-left: 15px;
+}
+html[dir=rtl] section.normal .cover {
+    float: right;
+    margin-left: 50px;
+}
+html[dir=ltr] section.normal .cover {
+    float: left;
+    margin-right: 50px;
+}
+html[dir=rtl] footer ul li svg {
+	margin-left: 10px;
+}
+html[dir=ltr] footer ul li svg {
+	margin-right: 10px;
 }
 
 /* media queries */
