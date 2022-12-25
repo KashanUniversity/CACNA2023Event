@@ -68,7 +68,7 @@ section.normal {
     padding: 100px;
     font-size: 23px;
 }
-section.normal h1 {
+section.normal h2 {
     width: fit-content;
     font-family: 'Sahel';
     font-size: 40px;
@@ -77,6 +77,15 @@ section.normal h1 {
 }
 section.normal ul {
     padding: 20px;
+}
+
+section.normal .cover {
+    width: 440px;
+    float: right;
+    display: inline-block;
+    margin-left: 50px;
+    border-radius: 7px;
+    border: 2px solid #0acbf8;
 }
 
 /* hr */
@@ -126,6 +135,17 @@ ul.topics li {
 }
 ul.topics li h3 {
     font-weight: normal;
+}
+
+/* dates */
+ul.dates {}
+ul.dates li {}
+ul.dates li label {
+    font-weight: bold;
+}
+ul.dates li .note {
+    color: #079dbe;
+    /* font-weight: bold; */
 }
 
 /* animations */
