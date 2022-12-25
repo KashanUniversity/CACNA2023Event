@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Shabnam', 'Tahoma', 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    line-height: 50px;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+}
+/* slider */
+section.slider {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background-image: linear-gradient(to bottom, rgba(14, 165, 233, 0.40), rgba(0, 0, 0, 0.90)), url('image1.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: #fff;
+    flex-direction: column;
+}
+section.slider h1 span {
+    color: yellow;
+}
+section.slider h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    /* text shadow */
+    text-shadow: 0 0 10px #000;
+    font-family: 'Sahel';
+}
+section.slider .arrow-icon {
+    bottom: 40px;
+    position: absolute;
+    animation: arrow 1s infinite;
+    cursor: pointer;
+}
+
+/* normal */
+section.normal {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    min-height: 300px;
+    padding: 100px;
+    font-size: 23px;
+}
+section.normal h1 {
+    width: fit-content;
+    font-family: 'Sahel';
+    font-size: 40px;
+    margin-bottom: 30px;
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 80%,#0acbf8 80%);
+}
+
+/* hr */
+hr {
+    border: 1px solid gray;
+    border-color: gray;
+}
+
+/* speakers */
+ul.speakers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+ul.speakers li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+ul.speakers li img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+ul.speakers li .speaker-name {
+
+}
+ul.speakers li .speaker-university {
+    font-weight: normal;
+}
+
+/* animations */
+@keyframes arrow {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(10px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+/* media queries */
