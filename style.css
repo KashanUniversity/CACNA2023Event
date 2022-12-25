@@ -11,15 +11,33 @@ img {
 li {
     list-style: none;
 }
+a {
+    color: inherit;
+    text-decoration: none;
+    /* background: linear-gradient(to bottom,rgba(0,0,0,0) 90%,#71dbf374 90%); */
+    /* border-radius: 3px; */
+}
 body {
-    font-family: 'Shabnam', 'Tahoma', 'Roboto', sans-serif;
     background-color: #f5f5f5;
     line-height: 50px;
 }
-.container {
+body, input, textarea, button {
+    font-size: 22px;
+    font-family: 'Shabnam', 'Tahoma', 'Roboto', sans-serif;
+}
+
+/* common */
+/* .container {
     max-width: 1200px;
     margin: auto;
     padding: 0 20px;
+} */
+footer, section.normal {
+    padding: 100px;
+}
+.note {
+    color: #079dbe;
+    /* font-weight: bold; */
 }
 
 /* slider */
@@ -65,7 +83,6 @@ section.normal {
     background-color: white;
     color: black;
     min-height: 300px;
-    padding: 100px;
     font-size: 23px;
 }
 section.normal h2 {
@@ -143,9 +160,87 @@ ul.dates li {}
 ul.dates li label {
     font-weight: bold;
 }
-ul.dates li .note {
-    color: #079dbe;
-    /* font-weight: bold; */
+
+/* submit */
+form.submit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+form.submit label {
+    font-weight: bold;
+}
+form.submit input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0acbf8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+form.submit button {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0acbf8;
+    border-radius: 5px;
+    background-color: #0acbf8;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+/* footer */
+footer {
+	padding-top: 25px;
+	padding-bottom: 25px;
+    border-top: 1px solid #eaeaea;
+}
+footer h6 {
+	font-size: 25px;
+	color: rgb(156, 163, 175);
+	margin-bottom: 20px;
+}
+footer .row {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+}
+footer .row .col {
+	width: 50%;
+	display: flex;
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+}
+footer ul {
+	margin-right: 15px;
+}
+footer ul li {
+	display: flex;
+	flex-direction: row;
+	line-height: 35px;
+	align-items: center;
+	color: black;
+}
+footer ul li a {
+	color: inherit;
+}
+footer ul li svg {
+	width: 25px;
+	height: 15px;
+	margin-left: 10px;
+	color: rgb(156, 163, 175);
+}
+footer ul li span {}
+footer hr {
+	border: 0px;
+	height: 1px;
+    background-color: #b9b7b7;
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 
 /* animations */
@@ -162,3 +257,12 @@ ul.dates li .note {
 }
 
 /* media queries */
+/* footer */
+@media (max-width: 768px) {
+    footer .row {
+        flex-direction: column;
+    }
+    footer .row .col {
+        width: 100%;
+    }
+}
