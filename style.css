@@ -21,7 +21,7 @@ body {
     background-color: #f5f5f5;
     line-height: 50px;
 }
-body, input, textarea, button {
+body, input, textarea, button, select {
     font-size: 22px;
     font-family: 'Shabnam', 'Tahoma', 'Roboto', sans-serif;
 }
@@ -179,6 +179,13 @@ form.submit input {
     border-radius: 5px;
     margin-bottom: 10px;
 }
+form.submit select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0acbf8;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
 form.submit button {
     width: 100%;
     padding: 10px;
@@ -221,7 +228,7 @@ footer ul {
 footer ul li {
 	display: flex;
 	flex-direction: row;
-	line-height: 35px;
+	line-height: 55px;
 	align-items: center;
 	color: black;
 }
