@@ -57,6 +57,15 @@ section.slider {
     color: #fff;
     flex-direction: column;
 }
+section.slider.mini-slider {
+    height: 300px !important;
+}
+section.slider.mini-slider h1 {
+    font-size: 28px !important;
+}
+section.slider.mini-slider h2 {
+    display: none !important;
+}
 section.slider h1 span {
     color: yellow;
 }
