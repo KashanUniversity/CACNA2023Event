@@ -17,7 +17,61 @@
         <section class="normal team">
             <h2>کمیته اجرایی همایش</h2>
 
-            <ul>
+            <ul class="speakers">
+                <li>
+                    <img src="/dr-dagigh.jpg" alt="مجتبی بهرامیان">
+                    <h4 class="speaker-name">مجتبی بهرامیان</h4>
+                    <h5 class="speaker-university">دبیر کمیته اجرایی</h5>
+                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/سبزواری.jpg" alt="مهدی سبزواری">
+                    <h4 class="speaker-name">مهدی سبزواری</h4>
+                    <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/محمدیه.jpg" alt="سیدعلی محمدیه">
+                    <h4 class="speaker-name">سیدعلی محمدیه</h4>
+                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/اسعیدی.jpg" alt="سعید آسعیدی">
+                    <h4 class="speaker-name">سعید آسعیدی</h4>
+                    <h5 class="speaker-university">سعید آسعیدی</h5>
+                </li>
+                <li>
+                    <img src="/پوربابایی.jpg" alt="مرضیه پوربابایی">
+                    <h4 class="speaker-name">مرضیه پوربابایی</h4>
+                    <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/سعیدیان.jpg" alt="زینب سعیدیان">
+                    <h4 class="speaker-name">زینب سعیدیان</h4>
+                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/ملکیان.jpg" alt="محمد حسن ملکیان">
+                    <h4 class="speaker-name">محمد حسن ملکیان</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/اسدی.jpg" alt="مهدی اسدی">
+                    <h4 class="speaker-name">مهدی اسدی</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/شکرریز.jpg" alt="محسن شکریز">
+                    <h4 class="speaker-name">محسن شکریز</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/سلطانی.jpg" alt="زینب سلطانی">
+                    <h4 class="speaker-name">زینب سلطانی</h4>
+                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                </li>
+            </ul>
+
+            <!-- <ul>
                 <li>
                     مهدی سبزواری (گروه ریاضی کاربردی، دانشگاه کاشان)
                 </li>
@@ -45,7 +99,8 @@
                 <li>
                     زینب سلطانی (گروه ریاضی محض، دانشگاه کاشان)
                 </li>
-            </ul>
+            </ul> -->
+            
         </section>
 
         <?php include "_footer.php" ?>
