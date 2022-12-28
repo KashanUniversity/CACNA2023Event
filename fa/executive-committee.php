@@ -37,7 +37,7 @@
                 <li>
                     <img src="/اسعیدی.jpg" alt="سعید آسعیدی">
                     <h4 class="speaker-name">سعید آسعیدی</h4>
-                    <h5 class="speaker-university">سعید آسعیدی</h5>
+                    <h5 class="speaker-university">گروه علوم کامپیوتر، دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/پوربابایی.jpg" alt="مرضیه پوربابایی">
