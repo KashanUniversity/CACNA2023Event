@@ -19,7 +19,7 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="/dr-dagigh.jpg" alt="مجتبی بهرامیان">
+                    <img src="/بهرامیان.jpg" alt="مجتبی بهرامیان">
                     <h4 class="speaker-name">مجتبی بهرامیان</h4>
                     <h5 class="speaker-university">دبیر کمیته اجرایی</h5>
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
@@ -100,7 +100,7 @@
                     زینب سلطانی (گروه ریاضی محض، دانشگاه کاشان)
                 </li>
             </ul> -->
-            
+
         </section>
 
         <?php include "_footer.php" ?>
