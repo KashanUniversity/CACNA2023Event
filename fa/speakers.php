@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="/style.css?ver=1">
     </head>
     <body>
-        <?php include "_header.php" ?>
+        <?php include "_inc/_header.php" ?>
         
         <section class="normal">
             <h2>سخنرانان کلیدی</h2>
@@ -35,7 +35,7 @@
             </ul>
         </section>
 
-        <?php include "_footer.php" ?>
+        <?php include "_inc/_footer.php" ?>
 
         <script type="text/javascript" src="/script.js?ver=1"></script>
     </body>
