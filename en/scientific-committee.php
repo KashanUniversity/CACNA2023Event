@@ -22,8 +22,8 @@ $en = true;
 
             <ul class="speakers">
             <li>
-                    <img src="/اشرفی.jpg" alt="سیدعلیرضا اشرفی">
-                    <h4 class="speaker-name">سیدعلیرضا اشرفی</h4>
+                    <img src="/اشرفی.jpg" alt="Seyyed Ali Reza Ashrafi">
+                    <h4 class="speaker-name">Seyyed Ali Reza Ashrafi</h4>
                     <h5 class="speaker-university">Scientific secretary</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
@@ -157,7 +157,7 @@ $en = true;
 
             <!-- <ul>
                 <li>
-                    سیدعلیرضا اشرفی (University of Kashan)
+                    Seyyed Ali Reza Ashrafi (University of Kashan)
                 </li>
                 <li>
                     حیدر باقر شلاش (University of Kufa)
