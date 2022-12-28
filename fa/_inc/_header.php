@@ -15,22 +15,22 @@
 
 <!-- nav -->
 <nav>
-    <a href="/">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>">
         <li>صفحه‌ی اصلی</li>
     </a>
-    <a href="/speakers.php">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>speakers.php">
         <li>سخنرانان کلیدی</li>
     </a>
-    <a href="/scientific-committee.php">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>scientific-committee.php">
         <li>کمیته علمی</li>
     </a>
-    <a href="/executive-committee.php">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>executive-committee.php">
         <li>کمیته اجرایی</li>
     </a>
-    <a href="/registration.php">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>registration.php">
         <li>ثبت‌نام</li>
     </a>
-    <a href="/submit.php">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>submit.php">
         <li>ارسال مقاله</li>
     </a>
     <!-- <li><a href="/schedule.php">برنامه</a></li> -->

@@ -70,10 +70,10 @@ $en = true;
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/حقیقی.jpg" alt="Hossein Haghighi">
-                    <h4 class="speaker-name">Hossein Haghighi</h4>
+                    <img src="/شرفدینی.jpg" alt="Reza Sharafdini">
+                    <h4 class="speaker-name">Reza Sharafdini</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">K. N. Toosi University of Technology</h5>
+                    <h5 class="speaker-university">Persian Gulf University</h5>
                 </li>
                 <li>
                     <img src="/دقیق.jpg" alt="Hassan Daghigh">
@@ -178,7 +178,7 @@ $en = true;
                     Jalal Askari (University of Kashan)
                 </li>
                 <li>
-                    Hossein Haghighi (دانشگاه صنعتی خواجه نصیرالدین طوسی)
+                    Reza Sharafdini (دانشگاه صنعتی خواجه نصیرالدین طوسی)
                 </li>
                 <li>
                     Hassan Daghigh (University of Kashan)
