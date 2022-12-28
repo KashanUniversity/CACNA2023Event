@@ -35,4 +35,13 @@
     </a>
     <!-- <li><a href="/schedule.php">برنامه</a></li> -->
     <!-- <li><a href="/contact.php">تماس با ما</a></li> -->
+    <?php if (isset($en)) { ?>
+        <a href="/fa/">
+            <li>Persian/فارسی</li>
+        </a>
+    <?php } else { ?>
+        <a href="/en/">
+            <li>English/انگلیسی</li>
+        </a>
+    <?php } ?>
 </nav>
