@@ -9,11 +9,11 @@
         <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/sahel-font@v3.4.0/dist/font-face.css">
         <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/shabnam-font@v5.0.1/dist/font-face.css">
         <!-- Style -->
-        <link rel="stylesheet" href="style.css?ver=1">
+        <link rel="stylesheet" href="/style.css?ver=1">
     </head>
     <body>
         <section class="slider">
-            <img src="logo.png" alt="دانشگاه کاشان">
+            <img src="/logo.png" alt="دانشگاه کاشان">
             <h1>
                 <span>چهارمین</span>
                 کنفرانس جبر محاسباتی، نظریه‌ی محاسباتی اعداد و کاربردها
@@ -30,8 +30,8 @@
             <h2>درباره همایش</h1>
 
             <p>
-                <a href="poster.jpg" target="_blank">
-                    <img class="cover" src="poster.jpg" alt="کاور همایش چهارمین همایش جبر محاسباتی، نظریه‌ی محاسباتی اعداد و کاربردها">
+                <a href="/poster.jpg" target="_blank">
+                    <img class="cover" src="/poster.jpg" alt="کاور همایش چهارمین همایش جبر محاسباتی، نظریه‌ی محاسباتی اعداد و کاربردها">
                 </a>
 
                 برگزاری چهارمین همایش جبر محاسباتی، نظریه‌ی محاسباتی اعداد و کاربردها در تاریخ ۲۴ الی ۲۶ اسفند ماه ۱۴۰۱
@@ -108,12 +108,12 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="dr-dagigh.jpg" alt="Dr. Hasan Daghigh">
+                    <img src="/dr-dagigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">دکتر حسن دقیق</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="dr-fathtabar.jpg" alt="Gholamhosein Fathtabar">
+                    <img src="/dr-fathtabar.jpg" alt="Gholamhosein Fathtabar">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
@@ -303,7 +303,7 @@
                 </form>
 
                 <div class="note">
-                    در صورتی که هر گونه سوالی دارید می توانید با دبیرخانه همایش از طریق نشانی ایمیل <a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a> تماس حاصل فرمایید.
+                    در صورتی که هر گونه سوالی دارید می توانید با دبیرخانه همایش از طریق نشانی ایمیل <a href="/mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a> تماس حاصل فرمایید.
                 </div>
             </p>
         </section>
@@ -398,6 +398,6 @@
             © ۱۴۰۱ دانشگاه کاشان. تمامی حقوق محفوظ می‌باشد.
         </footer>
 
-        <script type="text/javascript" src="script.js?ver=1"></script>
+        <script type="text/javascript" src="/script.js?ver=1"></script>
     </body>
 </html>
