@@ -36,11 +36,11 @@
     <!-- <li><a href="/schedule.php">Schedule</a></li> -->
     <!-- <li><a href="/contact.php">Contact</a></li> -->
     <?php if (isset($en)) { ?>
-        <a href="/fa/">
+        <a href="/fa/index.php">
             <li>Persian/فارسی</li>
         </a>
     <?php } else { ?>
-        <a href="/en/">
+        <a href="/en/index.php">
             <li>English/انگلیسی</li>
         </a>
     <?php } ?>
