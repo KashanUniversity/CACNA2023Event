@@ -24,191 +24,191 @@ $en = true;
             <li>
                     <img src="/اشرفی.jpg" alt="سیدعلیرضا اشرفی">
                     <h4 class="speaker-name">سیدعلیرضا اشرفی</h4>
-                    <h5 class="speaker-university">دبیرعلمی کنفرانس</h5>
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">Scientific secretary</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/شلاش.jpg" alt="حیدر باقر شلاش">
-                    <h4 class="speaker-name">حیدر باقر شلاش</h4>
+                    <img src="/شلاش.jpg" alt="Hayder Baqer Shelash">
+                    <h4 class="speaker-name">Hayder Baqer Shelash</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                    <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
-                    <img src="/شکور.jpg" alt="علی شکور">
-                    <h4 class="speaker-name">علی شکور</h4>
+                    <img src="/شکور.jpg" alt="Ali Shukur">
+                    <h4 class="speaker-name">Ali Shukur</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                    <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
-                    <img src="/ایرانمنش.jpg" alt="علی ایرانمنش">
-                    <h4 class="speaker-name">علی ایرانمنش</h4>
+                    <img src="/ایرانمنش.jpg" alt="Ali Iranmanesh">
+                    <h4 class="speaker-name">Ali Iranmanesh</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه تربیت مدرس</h5>
+                    <h5 class="speaker-university">Tarbiat Modares University</h5>
                 </li>
                 <li>
-                    <img src="/دانشخواه.jpg" alt="اشرف دانشخواه">
-                    <h4 class="speaker-name">اشرف دانشخواه</h4>
+                    <img src="/دانشخواه.jpg" alt="Ashraf Daneshkhah">
+                    <h4 class="speaker-name">Ashraf Daneshkhah</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه بوعلی سینا همدان</h5>
+                    <h5 class="speaker-university">Bu-Ali Sina University</h5>
                 </li>
                 <li>
-                    <img src="/نخودکار.jpg" alt="امیرحسین نخودکار حسن آبادی">
-                    <h4 class="speaker-name">امیرحسین نخودکار حسن آبادی</h4>
+                    <img src="/نخودکار.jpg" alt="Amirhosein Nokhodkar HasanAbadi">
+                    <h4 class="speaker-name">Amirhosein Nokhodkar HasanAbadi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/دواز.jpg" alt="بیژن دواز">
-                    <h4 class="speaker-name">بیژن دواز</h4>
+                    <img src="/دواز.jpg" alt="Bijan Davvaz">
+                    <h4 class="speaker-name">Bijan Davvaz</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه یزد</h5>
+                    <h5 class="speaker-university">Yazd University</h5>
                 </li>
                 <li>
-                    <img src="/عسکری.jpg" alt="جلال عسکری">
-                    <h4 class="speaker-name">جلال عسکری</h4>
+                    <img src="/عسکری.jpg" alt="Jalal Askari">
+                    <h4 class="speaker-name">Jalal Askari</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/حقیقی.jpg" alt="حسن حقیقی">
-                    <h4 class="speaker-name">حسن حقیقی</h4>
+                    <img src="/حقیقی.jpg" alt="Hossein Haghighi">
+                    <h4 class="speaker-name">Hossein Haghighi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه صنعتی خواجه نصیرالدین طوسی</h5>
+                    <h5 class="speaker-university">K. N. Toosi University of Technology</h5>
                 </li>
                 <li>
-                    <img src="/دقیق.jpg" alt="حسن دقیق">
-                    <h4 class="speaker-name">حسن دقیق</h4>
+                    <img src="/دقیق.jpg" alt="Hassan Daghigh">
+                    <h4 class="speaker-name">Hassan Daghigh</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/اشراقی.jpg" alt="حسین اشراقی">
-                    <h4 class="speaker-name">حسین اشراقی</h4>
+                    <img src="/اشراقی.jpg" alt="Hossein Eshraghi">
+                    <h4 class="speaker-name">Hossein Eshraghi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/موسوی.jpg" alt="حمید موسوی">
-                    <h4 class="speaker-name">حمید موسوی</h4>
+                    <img src="/موسوی.jpg" alt="Hamid Musavi">
+                    <h4 class="speaker-name">Hamid Musavi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه تبریز</h5>
+                    <h5 class="speaker-university">Tabriz University</h5>
                 </li>
                 <li>
-                    <img src="/جهانی نژاد.jpg" alt="رضا جهانی نژاد">
-                    <h4 class="speaker-name">رضا جهانی نژاد</h4>
+                    <img src="/جهانی نژاد.jpg" alt="Reza Jahani-Nezhad">
+                    <h4 class="speaker-name">Reza Jahani-Nezhad</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/عرفی.jpg" alt="رضا عرفی">
-                    <h4 class="speaker-name">رضا عرفی</h4>
+                    <img src="/عرفی.jpg" alt="Reza Orfi">
+                    <h4 class="speaker-name">Reza Orfi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه خوارزمی</h5>
+                    <h5 class="speaker-university">Kharazmi University</h5>
                 </li>
                 <li>
-                    <img src="/کهکشانی.jpg" alt="رضا کهکشانی">
-                    <h4 class="speaker-name">رضا کهکشانی</h4>
+                    <img src="/کهکشانی.jpg" alt="Reza Kahkeshani">
+                    <h4 class="speaker-name">Reza Kahkeshani</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/بابامیر.jpg" alt="سیدمرتضی بابامیر">
-                    <h4 class="speaker-name">سیدمرتضی بابامیر</h4>
+                    <img src="/بابامیر.jpg" alt="Morteza Babamir">
+                    <h4 class="speaker-name">Morteza Babamir</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه مهندسی کامپیوتر، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/چراغی.jpg" alt="عباس چراغی">
-                    <h4 class="speaker-name">عباس چراغی</h4>
+                    <img src="/چراغی.jpg" alt="Abbas Cheraghi">
+                    <h4 class="speaker-name">Abbas Cheraghi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه خوانسار</h5>
+                    <h5 class="speaker-university">Khansar University</h5>
                 </li>
                 <li>
-                    <img src="/فتح تبار.jpg" alt="غلامحسین فتح تبار">
-                    <h4 class="speaker-name">غلامحسین فتح تبار</h4>
+                    <img src="/فتح تبار.jpg" alt="Gholamhosein Fathtabar">
+                    <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/بهرامیان.jpg" alt="مجتبی بهرامیان">
-                    <h4 class="speaker-name">مجتبی بهرامیان</h4>
+                    <img src="/بهرامیان.jpg" alt="Mojtaba Bahramian">
+                    <h4 class="speaker-name">Mojtaba Bahramian</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/قربانی.jpg" alt="مجتبی قربانی">
-                    <h4 class="speaker-name">مجتبی قربانی</h4>
+                    <img src="/قربانی.jpg" alt="Mojtaba Ghorbani">
+                    <h4 class="speaker-name">Mojtaba Ghorbani</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه شهید رجایی</h5>
+                    <h5 class="speaker-university">Shahid Rajaee Teacher Training University</h5>
                 </li>
                 <li>
-                    <img src="/غلامی.jpg" alt="محمد غلامی">
-                    <h4 class="speaker-name">محمد غلامی</h4>
+                    <img src="/غلامی.jpg" alt="Mohammad Gholami">
+                    <h4 class="speaker-name">Mohammad Gholami</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه شهرکرد</h5>
+                    <h5 class="speaker-university">University of Shahrekord</h5>
                 </li>
                 <li>
-                    <img src="/شمائی.jpg" alt="مهسا سهیل شمائی">
-                    <h4 class="speaker-name">مهسا سهیل شمائی</h4>
+                    <img src="/شمائی.jpg" alt="Mahsa Soheil Shamaee">
+                    <h4 class="speaker-name">Mahsa Soheil Shamaee</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه علوم کامپیوتر، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
             </ul>
 
             <!-- <ul>
                 <li>
-                    سیدعلیرضا اشرفی (گروه ریاضی محض، دانشگاه کاشان)
+                    سیدعلیرضا اشرفی (University of Kashan)
                 </li>
                 <li>
-                    حیدر باقر شلاش (دانشگاه کوفه)
+                    حیدر باقر شلاش (University of Kufa)
                 </li>
                 <li>
-                    علی شکور (دانشگاه کوفه)
+                    علی شکور (University of Kufa)
                 </li>
                 <li>
                     اشرف دانشخواه (دانشگاه بوعلی سینا همدان)
                 </li>
                 <li>
-                    امیرحسین نخودکار حسن آبادی (گروه ریاضی محض، دانشگاه کاشان)
+                    امیرحسین نخودکار حسن آبادی (University of Kashan)
                 </li>
                 <li>
-                    بیژن دواز (دانشگاه یزد)
+                    Bijan Davvaz (دانشگاه یزد)
                 </li>
                 <li>
-                    جلال عسکری (گروه ریاضی کاربردی، دانشگاه کاشان)
+                    Jalal Askari (University of Kashan)
                 </li>
                 <li>
-                    حسن حقیقی (دانشگاه صنعتی خواجه نصیرالدین طوسی)
+                    Hossein Haghighi (دانشگاه صنعتی خواجه نصیرالدین طوسی)
                 </li>
                 <li>
-                    حسن دقیق (گروه ریاضی محض، دانشگاه کاشان)
+                    Hassan Daghigh (University of Kashan)
                 </li>
                 <li>
-                    حسین اشراقی (گروه ریاضی محض، دانشگاه کاشان)
+                    Hossein Eshraghi (University of Kashan)
                 </li>
                 <li>
-                    حمید موسوی (دانشگاه تبریز)
+                    Hamid Musavi (Tabriz University)
                 </li>
                 <li>
-                    رضا جهانی نژاد (گروه ریاضی محض، دانشگاه کاشان)
+                    Reza Jahani-Nezhad (University of Kashan)
                 </li>
                 <li>
                     رضا عرفی (دانشگاه خوارزمی)
                 </li>
                 <li>
-                    رضا کهکشانی (گروه ریاضی محض، دانشگاه کاشان)
+                    Reza Kahkeshani (University of Kashan)
                 </li>
                 <li>
-                    سیدمرتضی بابامیر (گروه مهندسی کامپیوتر، دانشگاه کاشان)
+                    Morteza Babamir (University of Kashan)
                 </li>
                 <li>
-                    عباس چراغی (دانشگاه خوانسار)
+                    Abbas Cheraghi (دانشگاه خوانسار)
                 </li>
                 <li>
-                    غلامحسین فتح تبار (گروه ریاضی محض، دانشگاه کاشان)
+                    Gholamhosein Fathtabar (University of Kashan)
                 </li>
                 <li>
-                    مجتبی بهرامیان (گروه ریاضی محض، دانشگاه کاشان)
+                    Mojtaba Bahramian (University of Kashan)
                 </li>
                 <li>
                     مجتبی قربانی (دانشگاه شهید رجایی)
@@ -217,7 +217,7 @@ $en = true;
                     محمد غلامی (دانشگاه شهرکرد)
                 </li>
                 <li>
-                    مهسا سهیل شمائی (گروه علوم کامپیوتر، دانشگاه کاشان)
+                    مهسا سهیل شمائی (University of Kashan)
                 </li>
             </ul> -->
         </section>
