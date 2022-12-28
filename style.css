@@ -48,7 +48,7 @@ section.slider {
     justify-content: center;
     align-items: center;
     padding: 5px;
-    background-image: linear-gradient(to bottom, rgba(14, 165, 233, 0.40), rgba(0, 0, 0, 0.90)), url('image1.webp');
+    background-image: linear-gradient(to bottom, rgba(14, 165, 233, 0.40), rgba(0, 0, 0, 0.90)), url('bg.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
