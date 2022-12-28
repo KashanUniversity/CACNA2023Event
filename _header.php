@@ -15,12 +15,24 @@
 
 <!-- nav -->
 <nav>
-    <li><a href="/">صفحه‌ی اصلی</a></li>
-    <li><a href="/speakers.php">سخنرانان</a></li>
-    <li><a href="/scientific-committee.php">کمیته علمی</a></li>
-    <li><a href="/executive-committee.php">کمیته اجرایی</a></li>
-    <li><a href="/registration.php">ثبت‌نام</a></li>
-    <li><a href="/submit.php">ارسال مقاله</a></li>
+    <a href="/">
+        <li>صفحه‌ی اصلی</li>
+    </a>
+    <a href="/speakers.php">
+        <li>سخنرانان کلیدی</li>
+    </a>
+    <a href="/scientific-committee.php">
+        <li>کمیته علمی</li>
+    </a>
+    <a href="/executive-committee.php">
+        <li>کمیته اجرایی</li>
+    </a>
+    <a href="/registration.php">
+        <li>ثبت‌نام</li>
+    </a>
+    <a href="/submit.php">
+        <li>ارسال مقاله</li>
+    </a>
     <!-- <li><a href="/schedule.php">برنامه</a></li> -->
     <!-- <li><a href="/contact.php">تماس با ما</a></li> -->
 </nav>

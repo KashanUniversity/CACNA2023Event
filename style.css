@@ -65,6 +65,7 @@ section.slider.mini-slider h1 {
 }
 section.slider.mini-slider img {
     width: 20% !important;
+    max-width: fit-content;
 }
 section.slider.mini-slider h2,
 section.slider.mini-slider .arrow-icon {
@@ -233,6 +234,7 @@ footer {
 	padding-top: 25px;
 	padding-bottom: 25px;
     border-top: 1px solid #eaeaea;
+    background-color: white;
 }
 footer h6 {
 	font-size: 25px;
@@ -349,5 +351,19 @@ html[dir=ltr] footer ul li svg {
     }
     ul.speakers {
         grid-template-columns: repeat(200px);
+    }
+}
+
+/* small font-size for `footer ul li` */
+@media (max-width: 700px) {
+    section.normal {
+        padding: 30px;
+    }
+    footer {
+        padding: 20px;
+        font-size: 15px;
+    }
+    footer ul li svg {
+        display: none;
     }
 }
