@@ -37,6 +37,12 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
+                    <img src="/ایرانمنش.jpg" alt="علی ایرانمنش">
+                    <h4 class="speaker-name">علی ایرانمنش</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه تربیت مدرس</h5>
+                </li>
+                <li>
                     <img src="/دانشخواه.jpg" alt="اشرف دانشخواه">
                     <h4 class="speaker-name">اشرف دانشخواه</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
