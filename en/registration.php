@@ -21,20 +21,18 @@ $en = true;
             <h2>Registration</h2>
 
             <p>
-                در صورت تمایل به ثبت نام به عنوان شرکتد کننده یا سخنران، لطفاً از طریق ایمیل
-                <b><a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a></b>
-                با کمیته علمی کنفرانس در ارتباط باشید.
+                If you are going to participate in the conference or give a talk, please contact the scientific committee of the conference on <b><a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a></b> email address.
+                <br>
 
-                جهت ثبت نام مشخصات خود را در فرمت زیر به ایمیل کنفرانس ارسال کنید:
+                For registration, please send your information in the following format to the email address above:
                 <br>
 
                 <pre>
-نام و نام خانوادگی:
-نام دانشگاه:
-رشته تحصیلی:
-تخصص:
-نشانی ایمیل:
-            </pre>
+Full name:
+Affiliation:
+Field of study:
+Email:
+</pre>
         </section>
 
         <?php include "_inc/_footer.php" ?>

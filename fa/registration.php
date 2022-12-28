@@ -31,7 +31,7 @@
 رشته تحصیلی:
 تخصص:
 نشانی ایمیل:
-            </pre>
+</pre>
         </section>
 
         <?php include "_inc/_footer.php" ?>
