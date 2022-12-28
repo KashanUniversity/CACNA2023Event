@@ -14,7 +14,7 @@ $en = true;
         <link rel="stylesheet" href="/style.css?ver=1">
     </head>
     <body>
-        <?php include "_header.php" ?>
+        <?php include "_inc/_header.php" ?>
 
         <section class="normal">
             <h2>Submit and Call for Papers (CFP)</h2>
