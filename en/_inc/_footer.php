@@ -79,12 +79,14 @@
                         </path>
                     </svg>
                     <span>
-                        cacna2023@kashanu.ac.ir
+                    <a href="mailto:cacna2023@kashanu.ac.ir">
+                            cacna2023@kashanu.ac.ir
+                        </a>
                     </span>
                 </li>
             </ul>
         </div>
     </div>
     <hr>
-    &#1042;© 2022 University of Kashan, All rights reserved.
+    © 2023 Design by <a href="https://asrez.com/">Asrez co</a>, All right reserved to University of Kashan.
 </footer>

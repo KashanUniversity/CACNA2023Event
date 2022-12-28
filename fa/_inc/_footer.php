@@ -78,12 +78,14 @@
                         </path>
                     </svg>
                     <span>
-                        cacna2023@kashanu.ac.ir
+                        <a href="mailto:cacna2023@kashanu.ac.ir">
+                            cacna2023@kashanu.ac.ir
+                        </a>
                     </span>
                 </li>
             </ul>
         </div>
     </div>
     <hr>
-    © ۱۴۰۱ دانشگاه کاشان. تمامی حقوق محفوظ می‌باشد.
+    © ۱۴۰۱ طراحی و پیاده سازی توسط <a href="https://asrez.com/">شرکت نرم افزاری اسرز</a>، تمامی حقوق برای دانشگاه کاشان محفوظ می باشد.
 </footer>
