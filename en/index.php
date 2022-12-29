@@ -27,7 +27,9 @@ $is_home = true;
                     <img class="cover" src="/poster.jpg" alt="&#1066;©&#1064;§&#1065;Ђ&#1064;± &#1065;‡&#1065;…&#1064;§&#1067;&#1034;&#1064;&#1169; &#1066;†&#1065;‡&#1064;§&#1064;±&#1065;…&#1067;&#1034;&#1065;† &#1065;‡&#1065;…&#1064;§&#1067;&#1034;&#1064;&#1169; &#1064;¬&#1064;&#1025;&#1064;± &#1065;…&#1064;­&#1064;§&#1064;&#1110;&#1064;&#1025;&#1064;§&#1064;&#1028;&#1067;&#1034;&#1064;&#1034; &#1065;†&#1064;&#1105;&#1064;±&#1067;&#1034;&#1065;‡&#1074;&#1026;&#1034;&#1067;&#1034; &#1065;…&#1064;­&#1064;§&#1064;&#1110;&#1064;&#1025;&#1064;§&#1064;&#1028;&#1067;&#1034; &#1064;§&#1064;&#8470;&#1064;&#1031;&#1064;§&#1064;&#1031; &#1065;Ђ &#1066;©&#1064;§&#1064;±&#1064;&#1025;&#1064;±&#1064;&#1031;&#1065;‡&#1064;§">
                 </a>
 
-                Holding the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 24th to 26th March 2023 We are very happy to announce the holding of the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 24th to 26th March 2023.
+                <b>Holding the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 24th to 26th March 2023</b>
+                <br>
+                We are very happy to announce the holding of the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 24th to 26th March 2023.
                 <br>
                 <br>
                 The first, second and third conferences of this series were held in Kashan University in the years 2013 (26 to 28 December), 2014 (21 to 23 October) and 2017 (21 to 23 December), and this is the fourth conference of this series. This conference covers all topics of computational algebra, computer algebra, computational number theory and their applications. The lectures of this seminar are virtual and those who are interested are invited to send their articles for this conference.
@@ -138,7 +140,7 @@ $is_home = true;
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M11.828 12l2.829 2.828-1.414 1.415L9 12l4.243-4.243 1.414 1.415L11.828 12z"/></svg>
                     <h3>
-                        Algebraic combinations
+                        Computational algebraic combinations
                     </h3>
                 </li>
                 <li>
