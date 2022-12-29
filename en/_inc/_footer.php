@@ -55,7 +55,8 @@
                         </path>
                     </svg>
                     <span>
-                        +98 31-55912367 (Dr. Ali Reza Ashrafi, Office)
+                        Tel:
+                        +98 31-55912367, +98 9134950787, and +98 9133628438
                     </span>
                 </li>
                 <li>
@@ -67,7 +68,6 @@
                         </path>
                     </svg>
                     <span>
-                        +98 9134950787 - +98 9133628438
                     </span>
                 </li>
                 <li>
@@ -79,7 +79,8 @@
                         </path>
                     </svg>
                     <span>
-                    <a href="mailto:cacna2023@kashanu.ac.ir">
+                        Email: 
+                        <a href="mailto:cacna2023@kashanu.ac.ir">
                             cacna2023@kashanu.ac.ir
                         </a>
                     </span>
