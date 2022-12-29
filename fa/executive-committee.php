@@ -47,7 +47,7 @@
                 <li>
                     <img src="/سعیدیان.jpg" alt="زینب سعیدیان">
                     <h4 class="speaker-name">زینب سعیدیان</h4>
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/ملکیان.jpg" alt="محمد حسن ملکیان">
