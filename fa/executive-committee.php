@@ -19,53 +19,53 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="/بهرامیان.jpg" alt="مجتبی بهرامیان">
+                    <img src="/images/bahramian.jpg" alt="مجتبی بهرامیان">
                     <h4 class="speaker-name">مجتبی بهرامیان</h4>
                     <h5 class="speaker-university">دبیر کمیته اجرایی</h5>
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/سبزواری.jpg" alt="مهدی سبزواری">
+                    <img src="/images/sabzevari.jpg" alt="مهدی سبزواری">
                     <h4 class="speaker-name">مهدی سبزواری</h4>
                     <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/محمدیه.jpg" alt="سیدعلی محمدیه">
+                    <img src="/images/mohammadiyeh.jpg" alt="سیدعلی محمدیه">
                     <h4 class="speaker-name">سیدعلی محمدیه</h4>
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/اسعیدی.jpg" alt="سعید آسعیدی">
+                    <img src="/images/asaeedi.jpg" alt="سعید آسعیدی">
                     <h4 class="speaker-name">سعید آسعیدی</h4>
                     <h5 class="speaker-university">گروه علوم کامپیوتر، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/پوربابایی.jpg" alt="مرضیه پوربابایی">
+                    <img src="/images/pourbabaee.jpg" alt="مرضیه پوربابایی">
                     <h4 class="speaker-name">مرضیه پوربابایی</h4>
                     <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/سعیدیان.jpg" alt="زینب سعیدیان">
+                    <img src="/images/saeidian.jpg" alt="زینب سعیدیان">
                     <h4 class="speaker-name">زینب سعیدیان</h4>
                     <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/ملکیان.jpg" alt="محمد حسن ملکیان">
+                    <img src="/images/malekian.jpg" alt="محمد حسن ملکیان">
                     <h4 class="speaker-name">محمد حسن ملکیان</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/اسدی.jpg" alt="مهدی اسدی">
+                    <img src="/images/asadi.jpg" alt="مهدی اسدی">
                     <h4 class="speaker-name">مهدی اسدی</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/شکرریز.jpg" alt="محسن شکریز">
+                    <img src="/images/shekariz.jpg" alt="محسن شکریز">
                     <h4 class="speaker-name">محسن شکریز</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/سلطانی.jpg" alt="زینب سلطانی">
+                    <img src="/images/soltani.jpg" alt="زینب سلطانی">
                     <h4 class="speaker-name">زینب سلطانی</h4>
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>

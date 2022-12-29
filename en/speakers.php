@@ -26,12 +26,12 @@ $en = true;
 
             <ul class="speakers">
                 <li>
-                    <img src="/دقیق.jpg" alt="Dr. Hasan Daghigh">
+                    <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">Hasan Daghigh</h4>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/فتح تبار.jpg" alt="Gholamhosein Fathtabar">
+                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
                     <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>

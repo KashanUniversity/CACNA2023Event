@@ -23,12 +23,12 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="/دقیق.jpg" alt="Dr. Hasan Daghigh">
+                    <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">دکتر حسن دقیق</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/فتح تبار.jpg" alt="Gholamhosein Fathtabar">
+                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
