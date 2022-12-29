@@ -42,8 +42,7 @@
                         </path>
                     </svg>
                     <span>
-                        <!-- Department of Pure Mathematics, -->
-                        Faculty of Mathematical Sciences, University of Kashan
+                        Department of Pure Mathematics, Faculty of Mathematical Sciences, University of Kashan
                     </span>
                 </li>
                 <li>
