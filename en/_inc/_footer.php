@@ -87,9 +87,11 @@
                     </svg>
                     <span>
                         Email: 
-                        <a href="mailto:cacna2023@kashanu.ac.ir">
-                            cacna2023@kashanu.ac.ir
-                        </a>
+                        <small>
+                            <a href="mailto:cacna2023@kashanu.ac.ir">
+                                cacna2023@kashanu.ac.ir
+                            </a>
+                        </small>
                     </span>
                 </li>
             </ul>
