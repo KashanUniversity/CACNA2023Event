@@ -51,21 +51,21 @@ $is_home = true;
 
             <ul class="dates">
                 <li>
-                    <label>Deadline of abstract</label>
+                    <label>Deadline for Abstract Submission:</label>
                     <span>Friday, February 17, 2023</span>
                     <div class="note">
                         Note: Articles must be sent in either Persian or English and in conference template.
                     </div>
                 </li>
                 <li>
-                    <label>Deadline of "extended-abstract"</label>
+                    <label>Deadline for Extended Abstract Submission:</label>
                     <span>Friday, February 24, 2023</span>
                     <div class="note">
-                        Sending extended abstracts of articles is optional.
+                        Submitting extended abstracts of articles is optional.
                     </div>
                 </li>
                 <li>
-                    <label>Notification of applications</label>
+                    <label>Notification of Acceptance:</label>
                     <span>Wednesday, March 1, 2023</span>
                 </li>
                 <li>
@@ -101,31 +101,31 @@ $is_home = true;
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
                     <h3>
-                        Computational theory of groups
+                        Computational group theory
                     </h3>
                 </li>
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
                     <h3>
-                        Computational displacement algebra
+                        Computational commucative algebra
                     </h3>
                 </li>
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
                     <h3>
-                        Computational theory of rings
+                        Computational ring theory
                     </h3>
                 </li>
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
                     <h3>
-                        Computational theory of numbers
+                        Computational numbers theory
                     </h3>
                 </li>
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
                     <h3>
-                        Coding theory
+                        Code and cryptography
                     </h3>
                 </li>
                 <li>
@@ -143,7 +143,7 @@ $is_home = true;
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
                     <h3>
-                        Computational algebraic combinations
+                        Computational algebraic geometry
                     </h3>
                 </li>
                 <li>
@@ -155,7 +155,7 @@ $is_home = true;
                 <li>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
                     <h3>
-                        Computing Combinations
+                    Computational algebraic combinations
                     </h3>
                 </li>
             </ul>
