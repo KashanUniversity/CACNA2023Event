@@ -24,7 +24,7 @@ $en = true;
                 <li>
                     <img src="/images/bahramian.jpg" alt="Mojtaba Bahramian">
                     <h4 class="speaker-name">Mojtaba Bahramian</h4>
-                    <h5 class="speaker-university">Executive Secretary</h5>
+                    <h5 class="speaker-university">Chair of the Executive Committee</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
