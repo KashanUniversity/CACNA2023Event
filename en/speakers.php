@@ -38,6 +38,12 @@ $en = true;
 
             <ul class="speakers">
                 <li>
+                    <img src="/images/shakur.jpg" alt="Ali Shukur">
+                    <h4 class="speaker-name">Ali Shukur</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kufa</h5>
+                </li>
+                <li>
                     <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">Hasan Daghigh</h4>
                     <h5 class="speaker-university">University of Kashan</h5>

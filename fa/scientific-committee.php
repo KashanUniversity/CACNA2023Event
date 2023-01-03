@@ -31,12 +31,6 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
-                    <img src="/images/shakur.jpg" alt="علی شکور">
-                    <h4 class="speaker-name">علی شکور</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کوفه</h5>
-                </li>
-                <li>
                     <img src="/images/iranmanesh.jpg" alt="علی ایرانمنش">
                     <h4 class="speaker-name">علی ایرانمنش</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
