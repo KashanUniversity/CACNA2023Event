@@ -76,12 +76,6 @@ $en = true;
                     <h5 class="speaker-university">Persian Gulf University</h5>
                 </li>
                 <li>
-                    <img src="/images/daghigh.jpg" alt="Hassan Daghigh">
-                    <h4 class="speaker-name">Hassan Daghigh</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
                     <img src="/images/eshraghi.jpg" alt="Hossein Eshraghi">
                     <h4 class="speaker-name">Hossein Eshraghi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -122,12 +116,6 @@ $en = true;
                     <h4 class="speaker-name">Abbas Cheraghi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">Khansar University</h5>
-                </li>
-                <li>
-                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
-                    <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
                     <img src="/images/bahramian.jpg" alt="Mojtaba Bahramian">

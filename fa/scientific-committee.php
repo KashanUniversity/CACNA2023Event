@@ -73,12 +73,6 @@
                     <h5 class="speaker-university">دانشگاه خلیج فارس</h5>
                 </li>
                 <li>
-                    <img src="/images/daghigh.jpg" alt="حسن دقیق">
-                    <h4 class="speaker-name">حسن دقیق</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
-                </li>
-                <li>
                     <img src="/images/eshraghi.jpg" alt="حسین اشراقی">
                     <h4 class="speaker-name">حسین اشراقی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -119,12 +113,6 @@
                     <h4 class="speaker-name">عباس چراغی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه خوانسار</h5>
-                </li>
-                <li>
-                    <img src="/images/fath-tabar.jpg" alt="غلامحسین فتح تبار">
-                    <h4 class="speaker-name">غلامحسین فتح تبار</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/bahramian.jpg" alt="مجتبی بهرامیان">
