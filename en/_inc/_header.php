@@ -2,7 +2,7 @@
 <section class="slider<?= !isset($is_home) ? " mini-slider" : "" ?>">
     <img src="/logo.png" alt="دانشگاه کاشان">
     <h1>
-        <span>Fourth</span>
+        <span>4th</span>
         Conference on Computational Algebra, Computational Number Theory and Applications
     </h1>
     <h2>
