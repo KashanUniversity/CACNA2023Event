@@ -22,16 +22,11 @@
             </p>
 
             <ul class="speakers">
-                <!-- <li>
-                    <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
-                    <h4 class="speaker-name">دکتر حسن دقیق</h4>
-                    <h5 class="speaker-university">دانشگاه کاشان</h5>
-                </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
-                    <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
-                    <h5 class="speaker-university">دانشگاه کاشان</h5>
-                </li> -->
+                    <img src="/images/zare.jpg" alt="Dr. Rashid Zaare-Nahandi">
+                    <h4 class="speaker-name">رشید زارع‌ نهندی</h4>
+                    <h5 class="speaker-university">دانشگاه تحصيلات تکمیلی علوم پايه زنجان</h5>
+                </li>
             </ul>
         </section>
 
