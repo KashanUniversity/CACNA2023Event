@@ -22,6 +22,23 @@
             </p>
 
             <ul class="speakers">
+                <!-- <li>
+                    <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
+                    <h4 class="speaker-name">دکتر حسن دقیق</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
+                    <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li> -->
+            </ul>
+        </section>
+
+        <section class="normal">
+            <h2>سخنرانان مدعو</h2>
+
+            <ul class="speakers">
                 <li>
                     <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">دکتر حسن دقیق</h4>

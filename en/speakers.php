@@ -25,6 +25,23 @@ $en = true;
             </p>
 
             <ul class="speakers">
+                <!-- <li>
+                    <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
+                    <h4 class="speaker-name">Hasan Daghigh</h4>
+                    <h5 class="speaker-university">University of Kashan</h5>
+                </li>
+                <li>
+                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
+                    <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
+                    <h5 class="speaker-university">University of Kashan</h5>
+                </li> -->
+            </ul>
+        </section>
+
+        <section class="normal">
+            <h2>Keynote Speakers</h2>
+
+            <ul class="speakers">
                 <li>
                     <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">Hasan Daghigh</h4>
