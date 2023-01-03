@@ -35,6 +35,9 @@ body, input, textarea, button, select {
 footer, section.normal {
     padding: 100px;
 }
+section.normal-less {
+    padding-top: 0px;
+}
 .note {
     color: #079dbe;
     /* font-weight: bold; */

@@ -17,7 +17,7 @@ $en = true;
         <?php include "_inc/_header.php" ?>
 
         <section class="normal">
-            <h2>Submit and Call for Papers (CFP)</h2>
+            <h2>Send Paper</h2>
 
             <p>
                 Attention, dear researchers, you can send your article using the form below.

@@ -31,7 +31,7 @@
         <li>Registration</li>
     </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>submit.php">
-        <li>Submit (CFP)</li>
+        <li>Send Paper</li>
     </a>
     <!-- <li><a href="/schedule.php">Schedule</a></li> -->
     <!-- <li><a href="/contact.php">Contact</a></li> -->

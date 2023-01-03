@@ -33,7 +33,7 @@ $en = true;
             </ul>
         </section>
 
-        <section class="normal">
+        <section class="normal normal-less">
             <h2>Invited Speakers</h2>
 
             <ul class="speakers">
