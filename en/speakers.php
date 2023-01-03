@@ -37,9 +37,15 @@ $en = true;
             <h2>Invited Speakers</h2>
 
             <ul class="speakers">
-                <li>
-                    <img src="/images/shakur.jpg" alt="Ali Shukur">
+            <li>
+                    <img src="/images/shakur.jpg" alt="Dr. Ali Shukur">
                     <h4 class="speaker-name">Ali Shukur</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kufa</h5>
+                </li>
+                <li>
+                    <img src="/images/hashim.jpg" alt="Dr. Hayder Hashim">
+                    <h4 class="speaker-name">Hayder Hashim</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>

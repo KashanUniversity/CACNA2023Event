@@ -46,6 +46,12 @@ $en = true;
                     <h5 class="speaker-university">Bu-Ali Sina University</h5>
                 </li>
                 <li>
+                    <img src="/images/cheraghi.jpg" alt="Abbas Cheraghi">
+                    <h4 class="speaker-name">Abbas Cheraghi</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Khansar University</h5>
+                </li>
+                <li>
                     <img src="/images/nokhodkar.jpg" alt="Amirhosein Nokhodkar HasanAbadi">
                     <h4 class="speaker-name">Amirhosein Nokhodkar HasanAbadi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -100,16 +106,16 @@ $en = true;
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
+                    <img src="/images/najlaa.jpg" alt="Dr. Najlaa Falah">
+                    <h4 class="speaker-name">Najlaa Falah</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kufe</h5>
+                </li>
+                <li>
                     <img src="/images/babamir.jpg" alt="Morteza Babamir">
                     <h4 class="speaker-name">Morteza Babamir</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
-                    <img src="/images/cheraghi.jpg" alt="Abbas Cheraghi">
-                    <h4 class="speaker-name">Abbas Cheraghi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Khansar University</h5>
                 </li>
                 <li>
                     <img src="/images/bahramian.jpg" alt="Mojtaba Bahramian">
@@ -134,6 +140,12 @@ $en = true;
                     <h4 class="speaker-name">Mahsa Soheil Shamaee</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kashan</h5>
+                </li>
+                <li>
+                    <img src="/images/salam.jpg" alt="Dr. Salam Al-augby">
+                    <h4 class="speaker-name">Salam Al-augby</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kufa</h5>
                 </li>
             </ul>
         </section>

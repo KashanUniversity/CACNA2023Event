@@ -19,120 +19,131 @@
 
             <ul class="speakers">
             <li>
-                    <img src="/images/ashrafi.jpg" alt="سیدعلیرضا اشرفی">
+                    <img src="/images/ashrafi.jpg" alt="دکتر سیدعلیرضا اشرفی">
                     <h4 class="speaker-name">سیدعلیرضا اشرفی</h4>
                     <h5 class="speaker-university">دبیرعلمی کنفرانس</h5>
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/shalash.jpg" alt="حیدر باقر شلاش">
+                    <img src="/images/shalash.jpg" alt="دکتر حیدر باقر شلاش">
                     <h4 class="speaker-name">حیدر باقر شلاش</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
-                    <img src="/images/iranmanesh.jpg" alt="علی ایرانمنش">
+                    <img src="/images/iranmanesh.jpg" alt="دکتر علی ایرانمنش">
                     <h4 class="speaker-name">علی ایرانمنش</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه تربیت مدرس</h5>
                 </li>
                 <li>
-                    <img src="/images/daneshkhah.jpg" alt="اشرف دانشخواه">
+                    <img src="/images/daneshkhah.jpg" alt="دکتر اشرف دانشخواه">
                     <h4 class="speaker-name">اشرف دانشخواه</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه بوعلی سینا همدان</h5>
                 </li>
                 <li>
-                    <img src="/images/nokhodkar.jpg" alt="امیرحسین نخودکار حسن آبادی">
+                    <img src="/images/nokhodkar.jpg" alt="دکتر امیرحسین نخودکار حسن آبادی">
                     <h4 class="speaker-name">امیرحسین نخودکار حسن آبادی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/davaz.jpg" alt="بیژن دواز">
+                    <img src="/images/davaz.jpg" alt="دکتر بیژن دواز">
                     <h4 class="speaker-name">بیژن دواز</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه یزد</h5>
                 </li>
                 <li>
-                    <img src="/images/askari.jpg" alt="جلال عسکری">
+                    <img src="/images/askari.jpg" alt="دکتر جلال عسکری">
                     <h4 class="speaker-name">جلال عسکری</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/sharafdini.jpg" alt="رضا شرف دینی">
+                    <img src="/images/sharafdini.jpg" alt="دکتر رضا شرف دینی">
                     <h4 class="speaker-name">رضا شرف دینی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه خلیج فارس</h5>
                 </li>
                 <li>
-                    <img src="/images/eshraghi.jpg" alt="حسین اشراقی">
+                    <img src="/images/eshraghi.jpg" alt="دکتر حسین اشراقی">
                     <h4 class="speaker-name">حسین اشراقی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/mosavi.jpg" alt="حمید موسوی">
+                    <img src="/images/mosavi.jpg" alt="دکتر حمید موسوی">
                     <h4 class="speaker-name">حمید موسوی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه تبریز</h5>
                 </li>
                 <li>
-                    <img src="/images/jahani-nejad.jpg" alt="رضا جهانی نژاد">
+                    <img src="/images/jahani-nejad.jpg" alt="دکتر رضا جهانی نژاد">
                     <h4 class="speaker-name">رضا جهانی نژاد</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/arafi.jpg" alt="رضا عرفی">
+                    <img src="/images/arafi.jpg" alt="دکتر رضا عرفی">
                     <h4 class="speaker-name">رضا عرفی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه خوارزمی</h5>
                 </li>
                 <li>
-                    <img src="/images/kahkeshani.jpg" alt="رضا کهکشانی">
+                    <img src="/images/kahkeshani.jpg" alt="دکتر رضا کهکشانی">
                     <h4 class="speaker-name">رضا کهکشانی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/babamir.jpg" alt="سیدمرتضی بابامیر">
+                    <img src="/images/najlaa.jpg" alt="دکتر نجلاء فلاح حميد الصفار">
+                    <h4 class="speaker-name">نجلاء فلاح حميد الصفار</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                </li>
+                <li>
+                    <img src="/images/babamir.jpg" alt="دکتر سیدمرتضی بابامیر">
                     <h4 class="speaker-name">سیدمرتضی بابامیر</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه مهندسی کامپیوتر، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/cheraghi.jpg" alt="عباس چراغی">
+                    <img src="/images/cheraghi.jpg" alt="دکتر عباس چراغی">
                     <h4 class="speaker-name">عباس چراغی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه خوانسار</h5>
                 </li>
                 <li>
-                    <img src="/images/bahramian.jpg" alt="مجتبی بهرامیان">
+                    <img src="/images/bahramian.jpg" alt="دکتر مجتبی بهرامیان">
                     <h4 class="speaker-name">مجتبی بهرامیان</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/ghorbani.jpg" alt="مجتبی قربانی">
+                    <img src="/images/ghorbani.jpg" alt="دکتر مجتبی قربانی">
                     <h4 class="speaker-name">مجتبی قربانی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه شهید رجایی</h5>
                 </li>
                 <li>
-                    <img src="/images/gholami.jpg" alt="محمد غلامی">
+                    <img src="/images/gholami.jpg" alt="دکتر محمد غلامی">
                     <h4 class="speaker-name">محمد غلامی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه شهرکرد</h5>
                 </li>
                 <li>
-                    <img src="/images/shamaee.jpg" alt="مهسا سهیل شمائی">
+                    <img src="/images/shamaee.jpg" alt="دکتر مهسا سهیل شمائی">
                     <h4 class="speaker-name">مهسا سهیل شمائی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه علوم کامپیوتر، دانشگاه کاشان</h5>
                 </li>
-            </ul>
+                <li>
+                    <img src="/images/salam.jpg" alt="دکتر سلام حسن محيسن العكبي">
+                    <h4 class="speaker-name">سلام حسن محيسن العكبي</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                </li>            </ul>
         </section>
 
         <?php include "_inc/_footer.php" ?>
