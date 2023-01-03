@@ -143,7 +143,14 @@
                     <h4 class="speaker-name">سلام حسن محيسن العكبي</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
-                </li>            </ul>
+                </li>
+                <li>
+                    <img src="/images/shlaka.jpg" alt="دکتر حسن شلاکا">
+                    <h4 class="speaker-name">حسن شلاکا</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                </li>
+            </ul>
         </section>
 
         <?php include "_inc/_footer.php" ?>
