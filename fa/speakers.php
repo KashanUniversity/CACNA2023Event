@@ -30,8 +30,8 @@
             </ul>
         </section>
 
-        <section class="normal">
-            <h2>سخران های مدعو</h2>
+        <section class="normal normal-less">
+            <h2>سخنران های مدعو</h2>
 
             <ul class="speakers">
                 <li>
