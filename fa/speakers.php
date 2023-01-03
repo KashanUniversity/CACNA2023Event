@@ -41,6 +41,12 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
+                    <img src="/images/hashim.jpg" alt="دکتر حیدر هاشم">
+                    <h4 class="speaker-name">حیدر هاشم</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                </li>
+                <li>
                     <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">دکتر حسن دقیق</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>

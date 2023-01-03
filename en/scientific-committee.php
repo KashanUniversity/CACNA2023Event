@@ -142,8 +142,14 @@ $en = true;
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/salam.jpg" alt="Dr. Salam Al-augby">
-                    <h4 class="speaker-name">Salam Al-augby</h4>
+                    <img src="/images/salam.jpg" alt="Dr. Salam Al-Augby">
+                    <h4 class="speaker-name">Salam Al-Augby</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kufa</h5>
+                </li>
+                <li>
+                    <img src="/images/shlaka.jpg" alt="Dr. Hasan Shlaka">
+                    <h4 class="speaker-name">Hasan Shlaka</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
