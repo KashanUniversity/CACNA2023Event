@@ -20,11 +20,11 @@
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>">
         <li>صفحه‌ی اصلی</li>
     </a>
-    <a href="/<?= isset($en) ? "en/" : "fa/" ?>speakers.php">
-        <li>سخنران ها</li>
-    </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>objectives.php">
         <li>اهداف همایش</li>
+    </a>
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>speakers.php">
+        <li>سخنران ها</li>
     </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>scientific-committee.php">
         <li>کمیته علمی</li>
