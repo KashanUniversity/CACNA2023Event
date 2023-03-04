@@ -14,8 +14,6 @@
         <?php include "_inc/_header.php" ?>
 
         <section class="normal">
-            <h2>Conference Objectives</h2>
-
             <?php include "_inc/_about.php" ?>
         </section>
 
