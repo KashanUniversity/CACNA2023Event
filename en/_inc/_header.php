@@ -21,6 +21,9 @@
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>speakers.php">
         <li>Speakers</li>
     </a>
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>objectives.php">
+        <li>objectives</li>
+    </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>scientific-committee.php">
         <li>Scientific Committee</li>
     </a>
