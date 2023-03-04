@@ -18,9 +18,15 @@
             <h2>کمیته علمی همایش</h2>
 
             <ul class="speakers">
-            <li>
+                <li>
                     <img src="/images/ashrafi.jpg" alt="دکتر سیدعلیرضا اشرفی">
                     <h4 class="speaker-name">سیدعلیرضا اشرفی</h4>
+                    <h5 class="speaker-university">دبیرعلمی قبلی کنفرانس</h5>
+                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/images/fath-tabar.jpg" alt="دکتر غلامحسین فتح تبار">
+                    <h4 class="speaker-name">غلامحسین فتح تبار فیروزجایی</h4>
                     <h5 class="speaker-university">دبیرعلمی کنفرانس</h5>
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
