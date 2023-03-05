@@ -109,7 +109,7 @@ $en = true;
                     <img src="/images/najlaa.jpg" alt="Dr. Najlaa Falah">
                     <h4 class="speaker-name">Najlaa Falah</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kufe</h5>
+                    <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
                     <img src="/images/babamir.jpg" alt="Morteza Babamir">
