@@ -1,3 +1,6 @@
+<?php
+require "../_submit.php";
+?>
 <html lang="fa_IR" dir="rtl">
     <head>
         <meta charset="UTF-8">
@@ -19,7 +22,7 @@
             <p>
                 قابل توجه پژوهشگران عزیز، برای ارسال مقاله خود می توانید از فرم زیر ارسال کنید.
 
-                <form class="submit" action="" method="POST">
+                <form class="submit" action="" method="POST" enctype="multipart/form-data">
                     <label>عنوان مقاله به فارسی <span class="note">*</span></label>
                     <input type="text" name="title" placeholder="عنوان مقاله به فارسی" required>
 
@@ -45,7 +48,7 @@
                     <input type="file" name="file" required>
                     <!-- <div class="note">توجه: تنها امکان انتخاب یک فایل وجود دارد.</div> -->
 
-                    <button type="submit">ارسال</button>
+                    <button name="submit" type="submit">ارسال</button>
                 </form>
 
                 <div class="note">

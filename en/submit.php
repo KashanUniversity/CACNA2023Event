@@ -1,5 +1,6 @@
 <?php
 $en = true;
+require "../_submit.php";
 ?>
 <html lang="en_US" dir="ltr">
     <head>
@@ -22,7 +23,7 @@ $en = true;
             <p>
                 Attention, dear researchers, you can send your article using the form below.
 
-                <form class="submit" action="" method="POST">
+                <form class="submit" action="" method="POST" enctype="multipart/form-data">
                     <label>Title of the article in English <span class="note">*</span></label>
                     <input dir="ltr" type="text" name="title_en" placeholder="Title of the article in English" required>
 
@@ -48,7 +49,7 @@ $en = true;
                     <input type="file" name="file" required>
                     <!-- <div class="note">&#1064;&#1028;&#1065;Ђ&#1064;¬&#1065;‡: &#1064;&#1028;&#1065;†&#1065;‡&#1064;§ &#1064;§&#1065;…&#1066;©&#1064;§&#1065;† &#1064;§&#1065;†&#1064;&#1028;&#1064;®&#1064;§&#1064;&#1025; &#1067;&#1034;&#1066;© &#1065;&#1027;&#1064;§&#1067;&#1034;&#1065;„ &#1065;Ђ&#1064;¬&#1065;Ђ&#1064;&#1031; &#1064;&#1031;&#1064;§&#1064;±&#1064;&#1031;.</div> -->
 
-                    <button type="submit">Submit</button>
+                    <button name="submit" type="submit">Submit</button>
                 </form>
 
                 <div class="note">
