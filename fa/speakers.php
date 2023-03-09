@@ -56,6 +56,11 @@
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
+                <li>
+                    <img src="/images/kiani.jpg" alt="داریوش کیانی">
+                    <h4 class="speaker-name">داریوش کیانی</h4>
+                    <h5 class="speaker-university">دانشگاه صنعتی امیرکبیر</h5>
+                </li>
             </ul>
         </section>
 

@@ -37,7 +37,7 @@ $en = true;
             <h2>Invited Speakers</h2>
 
             <ul class="speakers">
-            <li>
+                <li>
                     <img src="/images/shakur.jpg" alt="Dr. Ali Shukur">
                     <h4 class="speaker-name">Ali Shukur</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -58,6 +58,11 @@ $en = true;
                     <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
                     <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
                     <h5 class="speaker-university">University of Kashan</h5>
+                </li>
+                <li>
+                    <img src="/images/kiani.jpg" alt="Dariush Kiani">
+                    <h4 class="speaker-name">Dariush Kiani</h4>
+                    <h5 class="speaker-university">Amirkabir University of Technology</h5>
                 </li>
             </ul>
         </section>
