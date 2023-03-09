@@ -91,7 +91,7 @@ $is_home = true;
                 <li>
                     <label>Registration fee</label>
                     <span>
-                        There is no Registration fee for non-Iranian residents.
+                        <b>50 USD</b> for non-Iranian residents.
                     </span>
                 </li>
             </ul>
