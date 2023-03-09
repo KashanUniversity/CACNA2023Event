@@ -25,6 +25,11 @@ $is_home = true;
         <section class="normal">
             <h2>About conference</h1>
 
+            <b style="color: red;">
+                Unfortunately, due to the tragic and sudden death of the world scientist, and scholar <b>Professor Seyed Ali Reza Ashrafi</b>, scientific secretary of the conference, the time of this conference was changed from March 2023 to July 2023.
+            </b>
+            <br>
+
             <p>
                 <!-- <a href="/poster-en.jpg" target="_blank">
                     <img class="cover" src="/poster-en.jpg" alt="Fourth Conference on Computational Algebra, Computational Number Theory and Applications">
@@ -42,7 +47,7 @@ $is_home = true;
                 The first, second and third conferences of this series were held at the University of Kashan during the years 2013 (26 to 28 December), 2014 (21 to 23 October) and 2017 (21 to 23 December), and this is the fourth conference of this series. This conference covers all topics of computational algebra, computational number theory and their applications. All  lectures of this conference will be virtual and those who are interested are invited to send their articles for presenting on this conference.
                 <br>
                 <br>
-                Ali Reza Ashrafi,
+                Gholamhosein Fathtabar,
                 <br>
                 Chair of the Scientific Committee of CACNA 2023
             </p>
