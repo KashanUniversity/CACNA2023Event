@@ -1,6 +1,6 @@
 <!-- main header/slider -->
 <section class="slider<?= !isset($is_home) ? " mini-slider" : "" ?>">
-    <img src="/logo.png" alt="دانشگاه کاشان">
+    <img src="/logo.png" alt="University of Kashan">
     <h1>
         <span>4th</span>
         Conference on Computational Algebra, Computational Number Theory and Applications
