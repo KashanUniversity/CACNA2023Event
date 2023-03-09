@@ -8,9 +8,9 @@ $is_home = true;
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Fourth Conference on Computational Algebra, Computational Number Theory and Applications</title>
+        <title>Fourth Conference on Computational Algebra, Computational Number Theory and Applications (Memorial of Professor Alireza Ashrafi)</title>
         <!-- meta tags -->
-        <meta name="description" content="We are very happy to announce the holding of the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 24th to 26th March 2023. The first, second and third conferences of this series were held in Kashan University in the years 2013 (26 to 28 December), 2014 (21 to 23 October) and 2017 (21 to 23 December), and this is the fourth conference of this series. This conference covers all topics of computational algebra, computer algebra, computational number theory and their applications. The lectures of this seminar are virtual and those who are interested are invited to send their articles for this conference.">
+        <meta name="description" content="We are very happy to announce the holding of the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 5th to 7th July 2023. The first, second and third conferences of this series were held in Kashan University in the years 2013 (26 to 28 December), 2014 (21 to 23 October) and 2017 (21 to 23 December), and this is the fourth conference of this series. This conference covers all topics of computational algebra, computer algebra, computational number theory and their applications. The lectures of this seminar are virtual and those who are interested are invited to send their articles for this conference.">
         <meta name="keywords" content="Conference, Event, Talks, Computational theory of groups, Computational displacement algebra, Computational theory of rings, Computational theory of numbers, Coding theory, Algebraic Machine Learning, Complex networks, Computational algebraic combinations, Computational linear algebra, Computing Combinations">
         <!-- Fonts -->
         <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/sahel-font@v3.4.0/dist/font-face.css">
@@ -61,31 +61,31 @@ $is_home = true;
             <ul class="dates">
                 <li>
                     <label>Deadline for Abstract Submission:</label>
-                    <span>Friday, February 17, 2023</span>
+                    <span>Monday, May 22, 2023</span>
                     <div class="note">
                         Note: Articles must be sent in either Persian or English and in conference template.
                     </div>
                 </li>
                 <li>
                     <label>Deadline for Extended Abstract Submission:</label>
-                    <span>Friday, February 24, 2023</span>
+                    <span>Friday, May 26, 2023</span>
                     <div class="note">
                         Submitting extended abstracts of articles is optional.
                     </div>
                 </li>
                 <li>
                     <label>Notification of Acceptance:</label>
-                    <span>Wednesday, March 1, 2023</span>
+                    <span>Wednesday, May 31, 2023</span>
                 </li>
                 <li>
                     <label>Registration deadline</label>
-                    <span>Monday, March 6, 2023</span>
+                    <span>Monday, June 5, 2023</span>
                 </li>
                 <li>
                     <label>Date of conference</label>
-                    <span>From Wednesday, March 15, 2023</span>
+                    <span>From Wednesday, July 5, 2023</span>
                     <div class="note">
-                        The conference will be held completely ONLINE.
+                        The conference will be held in ONLINE and in-person.
                     </div>
                 </li>
                 <li>

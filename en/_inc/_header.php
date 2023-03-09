@@ -19,7 +19,7 @@
         <li>Home</li>
     </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>objectives.php">
-        <li>objectives</li>
+        <li>Objectives</li>
     </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>speakers.php">
         <li>Speakers</li>
