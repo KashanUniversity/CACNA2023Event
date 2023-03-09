@@ -26,7 +26,7 @@ $is_home = true;
             <h2>About conference</h1>
 
             <b style="color: red;">
-                Unfortunately, due to the tragic and sudden death of the world scientist, and scholar <b>Professor Seyed Ali Reza Ashrafi</b>, scientific secretary of the conference, the time of this conference was changed from March 2023 to July 2023.
+                Unfortunately, due to the tragic and sudden death of the world scientist, and scholar Professor Seyyed Ali Reza Ashrafi, scientific secretary of the conference, the time of this conference was changed from March 2023 to July 2023.
             </b>
             <br>
 
