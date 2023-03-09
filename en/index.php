@@ -26,17 +26,17 @@ $is_home = true;
             <h2>About conference</h1>
 
             <p>
-                <a href="/poster-en.jpg" target="_blank">
+                <!-- <a href="/poster-en.jpg" target="_blank">
                     <img class="cover" src="/poster-en.jpg" alt="Fourth Conference on Computational Algebra, Computational Number Theory and Applications">
-                </a>
+                </a> -->
 
                 <b>
                     4th Conference on Computational Algebra, Computational Number Theory and Applications
                     <br>
-                    15th to 17th March 2023
+                    5th to 7th July 2023
                 </b>
                 <br>
-                We are very happy to announce the 4th Conference on Computational Algebra, Computational Number Theory and Applications (CACNA 2023) will be held at the University of Kashan, on  March 15 - 17, 2023.
+                We are very happy to announce the 4th Conference on Computational Algebra, Computational Number Theory and Applications (CACNA 2023) will be held at the University of Kashan, on  July 5-7, 2023.
                 <br>
                 <br>
                 The first, second and third conferences of this series were held at the University of Kashan during the years 2013 (26 to 28 December), 2014 (21 to 23 October) and 2017 (21 to 23 December), and this is the fourth conference of this series. This conference covers all topics of computational algebra, computational number theory and their applications. All  lectures of this conference will be virtual and those who are interested are invited to send their articles for presenting on this conference.

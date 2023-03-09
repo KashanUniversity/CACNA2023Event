@@ -24,6 +24,12 @@ $en = true;
             <li>
                     <img src="/images/ashrafi.jpg" alt="Seyyed Ali Reza Ashrafi">
                     <h4 class="speaker-name">Seyyed Ali Reza Ashrafi</h4>
+                    <h5 class="speaker-university">Previous Chair of the Scientific Committee</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
+                </li>
+                <li>
+                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
+                    <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
                     <h5 class="speaker-university">Chair of the Scientific Committee</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
