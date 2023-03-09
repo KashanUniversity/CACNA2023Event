@@ -64,6 +64,11 @@ $en = true;
                     <h4 class="speaker-name">Dariush Kiani</h4>
                     <h5 class="speaker-university">Amirkabir University of Technology</h5>
                 </li>
+                <li>
+                    <img src="/images/tavakoli.jpg" alt="Mostafa Tavakoli">
+                    <h4 class="speaker-name">Mostafa Tavakoli</h4>
+                    <h5 class="speaker-university">Ferdowsi University of Mashhad</h5>
+                </li>
             </ul>
         </section>
 

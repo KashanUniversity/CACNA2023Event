@@ -156,6 +156,18 @@
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
+                <li>
+                    <img src="/images/akbari.jpg" alt="دکتر سعید اکبری">
+                    <h4 class="speaker-name">سعید اکبری</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه شریف</h5>
+                </li>
+                <li>
+                    <img src="/images/eslami.jpg" alt="دکتر محمود شیخ الاسلامی">
+                    <h4 class="speaker-name">محمود شیخ الاسلامی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه شهید مدنی آذربایجان</h5>
+                </li>
             </ul>
         </section>
 

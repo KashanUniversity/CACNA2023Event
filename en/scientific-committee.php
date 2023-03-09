@@ -159,6 +159,18 @@ $en = true;
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
+                <li>
+                    <img src="/images/akbari.jpg" alt="Dr. Saieed Akbari">
+                    <h4 class="speaker-name">Saieed Akbari</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Sharif University of Technology</h5>
+                </li>
+                <li>
+                    <img src="/images/eslami.jpg" alt="Dr. Hasan Shlaka">
+                    <h4 class="speaker-name">Seyed Mahmoud Sheikholeslami</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Azarbaijan Shahid Madani University</h5>
+                </li>                
             </ul>
         </section>
 

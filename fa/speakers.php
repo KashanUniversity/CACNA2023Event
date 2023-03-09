@@ -61,6 +61,12 @@
                     <h4 class="speaker-name">داریوش کیانی</h4>
                     <h5 class="speaker-university">دانشگاه صنعتی امیرکبیر</h5>
                 </li>
+                <li>
+                    <img src="/images/tavakoli.jpg" alt="مصطفی توکلی">
+                    <h4 class="speaker-name">مصطفی توکلی</h4>
+                    <h5 class="speaker-university">دانشگاه فردوسی مشهد</h5>
+                </li>
+
             </ul>
         </section>
 
