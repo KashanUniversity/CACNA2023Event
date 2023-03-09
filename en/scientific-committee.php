@@ -171,6 +171,12 @@ $en = true;
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">Azarbaijan Shahid Madani University</h5>
                 </li>                
+                <li>
+                    <img src="/images/mohebi.jpg" alt="Dr. Akbar Mohebbi">
+                    <h4 class="speaker-name">Akbar Mohebbi</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kashan</h5>
+                </li>
             </ul>
         </section>
 

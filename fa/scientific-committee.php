@@ -168,6 +168,12 @@
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه شهید مدنی آذربایجان</h5>
                 </li>
+                <li>
+                    <img src="/images/mohebi.jpg" alt="دکتر اکبر محبی">
+                    <h4 class="speaker-name">اکبر محبی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li>
             </ul>
         </section>
 
