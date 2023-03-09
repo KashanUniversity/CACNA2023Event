@@ -21,7 +21,7 @@ $is_home = true;
         <?php include "_inc/_header.php" ?>
 
         <section class="normal">
-            <h2>درباره همایش</h1>
+            <h2>درباره همایش</h2>
 
             <b style="color: red;">
                 متاسفانه به دلیل فوت غم انگیز و ناگهانی دانشمند جهانی، فرهیخته و عالم پروفسور سید علی رضا اشرفی دبیر علمی کنفرانس، زمان این کنفرانس از اسفند ۱۴۰۱ به تیر ۱۴۰۲ تغییر یافت.
@@ -29,7 +29,7 @@ $is_home = true;
             <br>
             <b style="color: blue;">
                 لینک گروه کنفرانس در پیام رسان ایتا: <a href="https://eitaa.com/joinchat/2194080081C5e1228c556">https://eitaa.com/joinchat/2194080081C5e1228c556</a>
-            </h2>
+            </b>
             <br>
 
             <p>

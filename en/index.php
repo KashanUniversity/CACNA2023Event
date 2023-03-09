@@ -23,7 +23,7 @@ $is_home = true;
         <?php include "_inc/_header.php" ?>
 
         <section class="normal">
-            <h2>About conference</h1>
+            <h2>About conference</h2>
 
             <b style="color: red;">
                 Unfortunately, due to the tragic and sudden death of the world scientist, and scholar Professor Seyyed Ali Reza Ashrafi, scientific secretary of the conference, the time of this conference was changed from March 2023 to July 2023.
