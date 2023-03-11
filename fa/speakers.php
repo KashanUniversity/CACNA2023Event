@@ -52,7 +52,13 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="/images/daghigh.jpg" alt="حسن دقیق">
+                    <img src="/images/jalili.jpg" alt="دکتر مهدی جلیلی">
+                    <h4 class="speaker-name">مهدی جلیلی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه RMIT، ملبورن</h5>
+                </li>
+                <li>
+                    <img src="/images/daghigh.jpg" alt="دکتر حسن دقیق">
                     <h4 class="speaker-name">حسن دقیق</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
@@ -86,6 +92,11 @@
                     <h5 class="speaker-university">دانشگاه شهید رجایی</h5>
                 </li>
                 <li>
+                    <img src="/images/alikhani.jpg" alt="دکتر سعید علیخانی">
+                    <h4 class="speaker-name">سعید علیخانی</h4>
+                    <h5 class="speaker-university">دانشگاه یزد</h5>
+                </li>
+                <li>
                     <img src="/images/bahramian.jpg" alt="دکتر مجتبی بهرامیان">
                     <h4 class="speaker-name">مجتبی بهرامیان</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -96,12 +107,6 @@
                     <h4 class="speaker-name">رضا عرفی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه خوارزمی</h5>
-                </li>
-                <li>
-                    <img src="/images/jalili.jpg" alt="دکتر مهدی جلیلی">
-                    <h4 class="speaker-name">مهدی جلیلی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه ملبورن</h5>
                 </li>
                 <li>
                     <img src="/images/javadi.jpg" alt="دکتر رامین جوادی">
