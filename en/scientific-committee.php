@@ -25,8 +25,8 @@
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="Dr. ‪Gholam Hossein Fath-Tabar">
-                    <h4 class="speaker-name">‪Gholam Hossein Fath-Tabar</h4>
+                    <img src="/images/fath-tabar.jpg" alt="Dr. Gholam Hossein Fath-Tabar">
+                    <h4 class="speaker-name">Gholam Hossein Fath-Tabar</h4>
                     <h5 class="speaker-university">Chair of the Scientific Committee</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
