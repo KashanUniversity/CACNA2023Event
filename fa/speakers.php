@@ -69,7 +69,7 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="‪Gholam Hossein Fath-Tabar">
+                    <img src="/images/fath-tabar.jpg" alt="دکتر دکتر غلامحسین فتح تبار">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
@@ -123,6 +123,11 @@
                     <img src="/images/roshanbin.jpg" alt="دکتر الهام روشن بین">
                     <h4 class="speaker-name">الهام روشن بین</h4>
                     <h5 class="speaker-university">دانشگاه الزهرا</h5>
+                </li>
+                <li>
+                    <img src="/images/talebi.jpg" alt="دکتر یحیی طالبی">
+                    <h4 class="speaker-name">یحیی طالبی</h4>
+                    <h5 class="speaker-university">دانشگاه مازندران</h5>
                 </li>
             </ul>
         </section>

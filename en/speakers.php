@@ -72,8 +72,8 @@ $en = true;
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="‪Gholam Hossein Fath-Tabar">
-                    <h4 class="speaker-name">‪Gholam Hossein Fath-Tabar</h4>
+                    <img src="/images/fath-tabar.jpg" alt="Dr. Gholam Hossein Fath-Tabar">
+                    <h4 class="speaker-name">Gholam Hossein Fath-Tabar</h4>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
@@ -120,6 +120,11 @@ $en = true;
                     <img src="/images/roshanbin.jpg" alt="Dr. Elham Roshabbin">
                     <h4 class="speaker-name">Elham Roshabbin</h4>
                     <h5 class="speaker-university">Alzahra University</h5>
+                </li>
+                <li>
+                    <img src="/images/talebi.jpg" alt="Dr. Yahya Talebi">
+                    <h4 class="speaker-name">Yahya Talebi</h4>
+                    <h5 class="speaker-university">University of Mazandaran</h5>
                 </li>
             </ul>
         </section>
