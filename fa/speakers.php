@@ -35,7 +35,13 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="/images/shakur.jpg" alt="علی شکور">
+                    <img src="/images/shakur.jpg" alt="دکتر الن برتتو">
+                    <h4 class="speaker-name">الن برتتو</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کان، فرانسه</h5>
+                </li>
+                <li>
+                    <img src="/images/shakur.jpg" alt="دکتر علی شکور">
                     <h4 class="speaker-name">علی شکور</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
@@ -70,6 +76,24 @@
                     <h5 class="speaker-university">دانشگاه خوارزمی</h5>
                 </li>
                 <li>
+                    <img src="/images/abdolahi.jpg" alt="دکتر علیرضا عبدالهی">
+                    <h4 class="speaker-name">علیرضا عبدالهی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه اصفهان</h5>
+                </li>
+                <li>
+                    <img src="/images/jalili.jpg" alt="دکتر مهدی جلیلی">
+                    <h4 class="speaker-name">مهدی جلیلی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه ملبورن</h5>
+                </li>
+                <li>
+                    <img src="/images/javadi.jpg" alt="دکتر رامین جوادی">
+                    <h4 class="speaker-name">رامین جوادی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه صنعتی اصفهان</h5>
+                </li>
+                <li>
                     <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
@@ -84,7 +108,11 @@
                     <h4 class="speaker-name">مصطفی توکلی</h4>
                     <h5 class="speaker-university">دانشگاه فردوسی مشهد</h5>
                 </li>
-
+                <li>
+                    <img src="/images/roshanbin.jpg" alt="دکتر الهام روشن بین">
+                    <h4 class="speaker-name">الهام روشن بین</h4>
+                    <h5 class="speaker-university">دانشگاه الزهرا</h5>
+                </li>
             </ul>
         </section>
 

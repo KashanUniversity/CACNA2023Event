@@ -38,6 +38,12 @@ $en = true;
 
             <ul class="speakers">
                 <li>
+                    <img src="/images/shakur.jpg" alt="Dr. Alain Bretto:">
+                    <h4 class="speaker-name">Alain Bretto:</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Caen</h5>
+                </li>
+                <li>
                     <img src="/images/shakur.jpg" alt="Dr. Ali Shukur">
                     <h4 class="speaker-name">Ali Shukur</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -55,10 +61,28 @@ $en = true;
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/arafi.jpg" alt="Reza Orfi">
+                    <img src="/images/arafi.jpg" alt="Dr. Reza Orfi">
                     <h4 class="speaker-name">Reza Orfi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">Kharazmi University</h5>
+                </li>
+                <li>
+                    <img src="/images/abdolahi.jpg" alt="Dr. Ali Reza Abdollahi">
+                    <h4 class="speaker-name">Ali Reza Abdollahi</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Isfahan</h5>
+                </li>
+                <li>
+                    <img src="/images/jalili.jpg" alt="Dr. Mahdi Jalili">
+                    <h4 class="speaker-name">Mahdi Jalili</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">RMIT University, Melbourne</h5>
+                </li>
+                <li>
+                    <img src="/images/javadi.jpg" alt="Dr. Ramin Javadi">
+                    <h4 class="speaker-name">Ramin Javadi</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Isfahan University of Technology</h5>
                 </li>
                 <li>
                     <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
@@ -74,6 +98,11 @@ $en = true;
                     <img src="/images/tavakoli.jpg" alt="Mostafa Tavakoli">
                     <h4 class="speaker-name">Mostafa Tavakoli</h4>
                     <h5 class="speaker-university">Ferdowsi University of Mashhad</h5>
+                </li>
+                <li>
+                    <img src="/images/roshanbin.jpg" alt="Dr. Elham Roshabbin">
+                    <h4 class="speaker-name">Elham Roshabbin</h4>
+                    <h5 class="speaker-university">Alzahra University</h5>
                 </li>
             </ul>
         </section>

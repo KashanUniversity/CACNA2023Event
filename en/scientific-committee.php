@@ -145,6 +145,11 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">Shahed University</h5>
                 </li>
                 <li>
+                    <img src="/images/aboodi.jpg" alt="Dr. Mohammad Reza Oboudi">
+                    <h4 class="speaker-name">Mohammad Reza Oboudi</h4>
+                    <h5 class="speaker-university">Shiraz University</h5>
+                </li>
+                <li>
                     <img src="/images/ghasemi.jpg" alt="Dr. Mohsen Ghasemi">
                     <h4 class="speaker-name">Mohsen Ghasemi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
