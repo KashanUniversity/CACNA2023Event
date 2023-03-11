@@ -1,4 +1,4 @@
-com<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en_US" dir="ltr">
     <head>
         <meta charset="UTF-8">
