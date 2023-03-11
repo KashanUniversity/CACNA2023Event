@@ -150,11 +150,6 @@
                     <h5 class="speaker-university">دانشگاه شیراز</h5>
                 </li>
                 <li>
-                    <img src="/images/aboodi.jpg" alt="دکتر محمدرضا عبودی">
-                    <h4 class="speaker-name">محمدرضا عبودی</h4>
-                    <h5 class="speaker-university">دانشگاه شیراز</h5>
-                </li>
-                <li>
                     <img src="/images/ghasemi.jpg" alt="دکتر محسن قاسمی">
                     <h4 class="speaker-name">محسن قاسمی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
