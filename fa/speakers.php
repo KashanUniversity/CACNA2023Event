@@ -125,7 +125,7 @@
                     <h5 class="speaker-university">دانشگاه الزهرا</h5>
                 </li>
                 <li>
-                    <img src="/images/mozhdeh.jpg" alt="دکتر دوستعلی مژده">
+                    <img src="/images/mojdeh.jpg" alt="دکتر دوستعلی مژده">
                     <h4 class="speaker-name">دوستعلی مژده</h4>
                     <h5 class="speaker-university">دانشگاه مازندران</h5>
                 </li>
