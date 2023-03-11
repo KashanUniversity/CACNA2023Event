@@ -52,6 +52,12 @@
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
+                    <img src="/images/arafi.jpg" alt="دکتر رضا عرفی">
+                    <h4 class="speaker-name">رضا عرفی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه خوارزمی</h5>
+                </li>
+                <li>
                     <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>

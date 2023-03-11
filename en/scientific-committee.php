@@ -1,7 +1,4 @@
-<?php
-$en = true;
-?>
-<!DOCTYPE html>
+com<!DOCTYPE html>
 <html lang="en_US" dir="ltr">
     <head>
         <meta charset="UTF-8">
@@ -21,7 +18,7 @@ $en = true;
             <h2>Scientific Committee</h2>
 
             <ul class="speakers">
-            <li>
+                <li>
                     <img src="/images/ashrafi.jpg" alt="Seyyed Ali Reza Ashrafi">
                     <h4 class="speaker-name">Seyyed Ali Reza Ashrafi</h4>
                     <h5 class="speaker-university">Previous Chair of the Scientific Committee</h5>
@@ -36,6 +33,12 @@ $en = true;
                 <li>
                     <img src="/images/shalash.jpg" alt="Hayder Baqer Shelash">
                     <h4 class="speaker-name">Hayder Baqer Shelash</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kufa</h5>
+                </li>
+                <li>
+                    <img src="/images/najlaa.jpg" alt="Dr. Najlaa Falah">
+                    <h4 class="speaker-name">Najlaa Falah</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
@@ -100,22 +103,10 @@ $en = true;
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/arafi.jpg" alt="Reza Orfi">
-                    <h4 class="speaker-name">Reza Orfi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Kharazmi University</h5>
-                </li>
-                <li>
                     <img src="/images/kahkeshani.jpg" alt="Reza Kahkeshani">
                     <h4 class="speaker-name">Reza Kahkeshani</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
-                    <img src="/images/najlaa.jpg" alt="Dr. Najlaa Falah">
-                    <h4 class="speaker-name">Najlaa Falah</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
                     <img src="/images/babamir.jpg" alt="Morteza Babamir">

@@ -55,6 +55,12 @@ $en = true;
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
+                    <img src="/images/arafi.jpg" alt="Reza Orfi">
+                    <h4 class="speaker-name">Reza Orfi</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Kharazmi University</h5>
+                </li>
+                <li>
                     <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
                     <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
                     <h5 class="speaker-university">University of Kashan</h5>

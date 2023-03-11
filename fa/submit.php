@@ -19,6 +19,12 @@ require "../_submit.php";
         <section class="normal">
             <h2>ارسال مقاله</h2>
 
+            <?php if (isset($sent)) { ?>
+                <font color="green">
+                    از ارسال چکیده/مقاله خود متشکریم. فقط برای اطمینان لطفا مقاله خود را دوباره به آدرس ایمیل ما در <a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a> ارسال کنید.
+                </font>
+            <?php } ?>
+
             <p>
                 قابل توجه پژوهشگران عزیز، برای ارسال مقاله خود می توانید از فرم زیر ارسال کنید.
 

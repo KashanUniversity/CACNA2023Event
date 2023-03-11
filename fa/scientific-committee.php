@@ -37,6 +37,12 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
+                    <img src="/images/najlaa.jpg" alt="دکتر نجلاء فلاح حميد الصفار">
+                    <h4 class="speaker-name">نجلاء فلاح حميد الصفار</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                </li>
+                <li>
                     <img src="/images/iranmanesh.jpg" alt="دکتر علی ایرانمنش">
                     <h4 class="speaker-name">علی ایرانمنش</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -91,22 +97,10 @@
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/arafi.jpg" alt="دکتر رضا عرفی">
-                    <h4 class="speaker-name">رضا عرفی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه خوارزمی</h5>
-                </li>
-                <li>
                     <img src="/images/kahkeshani.jpg" alt="دکتر رضا کهکشانی">
                     <h4 class="speaker-name">رضا کهکشانی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
-                </li>
-                <li>
-                    <img src="/images/najlaa.jpg" alt="دکتر نجلاء فلاح حميد الصفار">
-                    <h4 class="speaker-name">نجلاء فلاح حميد الصفار</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
                     <img src="/images/babamir.jpg" alt="دکتر سیدمرتضی بابامیر">

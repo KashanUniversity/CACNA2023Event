@@ -20,6 +20,12 @@ require "../_submit.php";
         <section class="normal">
             <h2>Send Paper</h2>
 
+            <?php if (isset($sent)) { ?>
+                <font color="green">
+                    Thank you for submitting your abstract/article. Just to make sure please resend your paper to our email address at <a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a>.
+                </font>
+            <?php } ?>
+
             <p>
                 Attention, dear researchers, you can send your article using the form below.
 
