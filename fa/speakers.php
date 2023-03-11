@@ -23,18 +23,6 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="/images/zare.jpg" alt="Dr. Rashid Zaare-Nahandi">
-                    <h4 class="speaker-name">رشید زارع‌ نهندی</h4>
-                    <h5 class="speaker-university">دانشگاه تحصيلات تکمیلی علوم پايه زنجان</h5>
-                </li>
-            </ul>
-        </section>
-
-        <section class="normal normal-less">
-            <h2>سخنران های مدعو</h2>
-
-            <ul class="speakers">
-                <li>
                     <img src="/images/bretto.jpg" alt="دکتر الن برتتو">
                     <h4 class="speaker-name">الن برتتو</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -51,6 +39,18 @@
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه اصفهان</h5>
                 </li>
+                <li>
+                    <img src="/images/zare.jpg" alt="Dr. Rashid Zaare-Nahandi">
+                    <h4 class="speaker-name">رشید زارع‌ نهندی</h4>
+                    <h5 class="speaker-university">دانشگاه تحصيلات تکمیلی علوم پايه زنجان</h5>
+                </li>
+            </ul>
+        </section>
+
+        <section class="normal normal-less">
+            <h2>سخنران های مدعو</h2>
+
+            <ul class="speakers">
                 <li>
                     <img src="/images/daghigh.jpg" alt="حسن دقیق">
                     <h4 class="speaker-name">حسن دقیق</h4>
