@@ -35,16 +35,37 @@
 
             <ul class="speakers">
                 <li>
-                    <img src="/images/shakur.jpg" alt="دکتر الن برتتو">
+                    <img src="/images/bretto.jpg" alt="دکتر الن برتتو">
                     <h4 class="speaker-name">الن برتتو</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه کان، فرانسه</h5>
+                </li>
+                <li>
+                    <img src="/images/kiani.jpg" alt="داریوش کیانی">
+                    <h4 class="speaker-name">داریوش کیانی</h4>
+                    <h5 class="speaker-university">دانشگاه صنعتی امیرکبیر</h5>
+                </li>
+                <li>
+                    <img src="/images/abdolahi.jpg" alt="دکتر علیرضا عبدالهی">
+                    <h4 class="speaker-name">علیرضا عبدالهی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه اصفهان</h5>
+                </li>
+                <li>
+                    <img src="/images/daghigh.jpg" alt="حسن دقیق">
+                    <h4 class="speaker-name">حسن دقیق</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/shakur.jpg" alt="دکتر علی شکور">
                     <h4 class="speaker-name">علی شکور</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
+                </li>
+                <li>
+                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
+                    <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/hashim.jpg" alt="دکتر حیدر هاشم">
@@ -59,11 +80,6 @@
                     <h5 class="speaker-university">دانشگاه شهید رجایی</h5>
                 </li>
                 <li>
-                    <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
-                    <h4 class="speaker-name">دکتر حسن دقیق</h4>
-                    <h5 class="speaker-university">دانشگاه کاشان</h5>
-                </li>
-                <li>
                     <img src="/images/bahramian.jpg" alt="دکتر مجتبی بهرامیان">
                     <h4 class="speaker-name">مجتبی بهرامیان</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -76,12 +92,6 @@
                     <h5 class="speaker-university">دانشگاه خوارزمی</h5>
                 </li>
                 <li>
-                    <img src="/images/abdolahi.jpg" alt="دکتر علیرضا عبدالهی">
-                    <h4 class="speaker-name">علیرضا عبدالهی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه اصفهان</h5>
-                </li>
-                <li>
                     <img src="/images/jalili.jpg" alt="دکتر مهدی جلیلی">
                     <h4 class="speaker-name">مهدی جلیلی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -92,16 +102,6 @@
                     <h4 class="speaker-name">رامین جوادی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه صنعتی اصفهان</h5>
-                </li>
-                <li>
-                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
-                    <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
-                    <h5 class="speaker-university">دانشگاه کاشان</h5>
-                </li>
-                <li>
-                    <img src="/images/kiani.jpg" alt="داریوش کیانی">
-                    <h4 class="speaker-name">داریوش کیانی</h4>
-                    <h5 class="speaker-university">دانشگاه صنعتی امیرکبیر</h5>
                 </li>
                 <li>
                     <img src="/images/tavakoli.jpg" alt="مصطفی توکلی">
