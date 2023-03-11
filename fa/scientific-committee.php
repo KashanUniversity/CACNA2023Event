@@ -190,6 +190,11 @@
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه ایلام</h5>
                 </li>
+                <li>
+                    <img src="/images/talebi.jpg" alt="دکتر یحیی طالبی">
+                    <h4 class="speaker-name">یحیی طالبی</h4>
+                    <h5 class="speaker-university">دانشگاه مازندران</h5>
+                </li>
             </ul>
         </section>
 

@@ -188,6 +188,11 @@ com<!DOCTYPE html>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">Ilam University</h5>
                 </li>
+                <li>
+                    <img src="/images/talebi.jpg" alt="Dr. Yahya Talebi">
+                    <h4 class="speaker-name">Yahya Talebi</h4>
+                    <h5 class="speaker-university">University of Mazandaran</h5>
+                </li>
             </ul>
         </section>
 

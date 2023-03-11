@@ -122,8 +122,8 @@ $en = true;
                     <h5 class="speaker-university">Alzahra University</h5>
                 </li>
                 <li>
-                    <img src="/images/talebi.jpg" alt="Dr. Yahya Talebi">
-                    <h4 class="speaker-name">Yahya Talebi</h4>
+                    <img src="/images/roshanbin.jpg" alt="Dr. Doost Ali Mojdeh">
+                    <h4 class="speaker-name">Doost Ali Mojdeh</h4>
                     <h5 class="speaker-university">University of Mazandaran</h5>
                 </li>
             </ul>
