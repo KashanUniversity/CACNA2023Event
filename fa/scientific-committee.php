@@ -55,6 +55,12 @@
                     <h5 class="speaker-university">دانشگاه یزد</h5>
                 </li>
                 <li>
+                    <img src="/images/moghaddamfar.jpg" alt="دکتر علی رضا مقدم فر">
+                    <h4 class="speaker-name">علی رضا مقدم فر</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه صنعتی خواجه نصیرالدین طوسی</h5>
+                </li>
+                <li>
                     <img src="/images/mosavi.jpg" alt="دکتر حمید موسوی">
                     <h4 class="speaker-name">حمید موسوی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
