@@ -139,6 +139,12 @@
                     <h5 class="speaker-university">گروه علوم کامپیوتر، دانشگاه کاشان</h5>
                 </li>
                 <li>
+                    <img src="/images/jafarirad.jpg" alt="دکتر نادر جعفری راد">
+                    <h4 class="speaker-name">نادر جعفری راد</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه شاهد</h5>
+                </li>
+                <li>
                     <img src="/images/ghasemi.jpg" alt="دکتر محسن قاسمی">
                     <h4 class="speaker-name">محسن قاسمی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -168,7 +174,6 @@
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه ایلام</h5>
                 </li>
-
             </ul>
         </section>
 

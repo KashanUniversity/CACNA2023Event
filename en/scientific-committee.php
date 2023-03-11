@@ -19,22 +19,52 @@ com<!DOCTYPE html>
 
             <ul class="speakers">
                 <li>
-                    <img src="/images/ashrafi.jpg" alt="Seyyed Ali Reza Ashrafi">
+                    <img src="/images/ashrafi.jpg" alt="Dr. Seyyed AliReza Ashrafi">
                     <h4 class="speaker-name">Seyyed Ali Reza Ashrafi</h4>
                     <h5 class="speaker-university">Previous Chair of the Scientific Committee</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
+                    <img src="/images/fath-tabar.jpg" alt="Dr. Gholamhosein Fathtabar">
                     <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
                     <h5 class="speaker-university">Chair of the Scientific Committee</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/shalash.jpg" alt="Hayder Baqer Shelash">
+                    <img src="/images/darafshe.jpg" alt="Dr. Mohammad Reza Darafsheh">
+                    <h4 class="speaker-name">Mohammad Reza Darafsheh</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Tehran</h5>
+                </li>
+                <li>
+                    <img src="/images/akbari.jpg" alt="Dr. Saieed Akbari">
+                    <h4 class="speaker-name">Saieed Akbari</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Sharif</h5>
+                </li>
+                <li>
+                    <img src="/images/iranmanesh.jpg" alt="Dr. Ali Iranmanesh">
+                    <h4 class="speaker-name">Ali Iranmanesh</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Tarbiat Modares University</h5>
+                </li>
+                <li>
+                    <img src="/images/davaz.jpg" alt="Dr. Bijan Davvaz">
+                    <h4 class="speaker-name">Bijan Davvaz</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Yazd</h5>
+                </li>
+                <li>
+                    <img src="/images/mosavi.jpg" alt="Dr. Hamid Mousavi">
+                    <h4 class="speaker-name">Hamid Mousavi </h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Tabriz</h5>
+                </li>
+                <li>
+                    <img src="/images/shalash.jpg" alt="Dr. Hayder Baqer Shelash">
                     <h4 class="speaker-name">Hayder Baqer Shelash</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kufa</h5>
+                    <h5 class="speaker-university">University of Kufe</h5>
                 </li>
                 <li>
                     <img src="/images/najlaa.jpg" alt="Dr. Najlaa Falah">
@@ -43,10 +73,16 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
-                    <img src="/images/iranmanesh.jpg" alt="Ali Iranmanesh">
-                    <h4 class="speaker-name">Ali Iranmanesh</h4>
+                    <img src="/images/gholami.jpg" alt="Mohammad Gholami">
+                    <h4 class="speaker-name">Mohammad Gholami</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Tarbiat Modares University</h5>
+                    <h5 class="speaker-university">University of Shahrekord</h5>
+                </li>
+                <li>
+                <img src="/images/eslami.jpg" alt="Dr. Hasan Shlaka">
+                    <h4 class="speaker-name">Seyed Mahmoud Sheikholeslami</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Azarbaijan Shahid Madani University</h5>
                 </li>
                 <li>
                     <img src="/images/daneshkhah.jpg" alt="Ashraf Daneshkhah">
@@ -55,56 +91,14 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">Bu-Ali Sina University</h5>
                 </li>
                 <li>
-                    <img src="/images/cheraghi.jpg" alt="Abbas Cheraghi">
-                    <h4 class="speaker-name">Abbas Cheraghi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Khansar University</h5>
-                </li>
-                <li>
-                    <img src="/images/nokhodkar.jpg" alt="Amirhosein Nokhodkar HasanAbadi">
-                    <h4 class="speaker-name">Amirhosein Nokhodkar HasanAbadi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
-                    <img src="/images/davaz.jpg" alt="Bijan Davvaz">
-                    <h4 class="speaker-name">Bijan Davvaz</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Yazd University</h5>
-                </li>
-                <li>
-                    <img src="/images/askari.jpg" alt="Jalal Askari">
-                    <h4 class="speaker-name">Jalal Askari</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
                     <img src="/images/sharafdini.jpg" alt="Reza Sharafdini">
                     <h4 class="speaker-name">Reza Sharafdini</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">Persian Gulf University</h5>
                 </li>
                 <li>
-                    <img src="/images/eshraghi.jpg" alt="Hossein Eshraghi">
-                    <h4 class="speaker-name">Hossein Eshraghi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
-                    <img src="/images/mosavi.jpg" alt="Hamid Musavi">
-                    <h4 class="speaker-name">Hamid Musavi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Tabriz University</h5>
-                </li>
-                <li>
-                    <img src="/images/jahani-nejad.jpg" alt="Reza Jahani-Nezhad">
-                    <h4 class="speaker-name">Reza Jahani-Nezhad</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
-                    <img src="/images/kahkeshani.jpg" alt="Reza Kahkeshani">
-                    <h4 class="speaker-name">Reza Kahkeshani</h4>
+                    <img src="/images/mohebi.jpg" alt="Dr. Akbar Mohebbi">
+                    <h4 class="speaker-name">Akbar Mohebbi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
@@ -115,22 +109,28 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/bahramian.jpg" alt="Mojtaba Bahramian">
-                    <h4 class="speaker-name">Mojtaba Bahramian</h4>
+                    <img src="/images/nokhodkar.jpg" alt="Amirhosein Nokhodkar HasanAbadi">
+                    <h4 class="speaker-name">Amirhosein Nokhodkar HasanAbadi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/ghorbani.jpg" alt="Mojtaba Ghorbani">
-                    <h4 class="speaker-name">Mojtaba Ghorbani</h4>
+                    <img src="/images/askari.jpg" alt="Jalal Askari">
+                    <h4 class="speaker-name">Jalal Askari</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Shahid Rajaee Teacher Training University</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/gholami.jpg" alt="Mohammad Gholami">
-                    <h4 class="speaker-name">Mohammad Gholami</h4>
+                    <img src="/images/eshraghi.jpg" alt="Hossein Eshraghi">
+                    <h4 class="speaker-name">Hossein Eshraghi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Shahrekord</h5>
+                    <h5 class="speaker-university">University of Kashan</h5>
+                </li>
+                <li>
+                    <img src="/images/kahkeshani.jpg" alt="Reza Kahkeshani">
+                    <h4 class="speaker-name">Reza Kahkeshani</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
                     <img src="/images/shamaee.jpg" alt="Mahsa Soheil Shamaee">
@@ -139,10 +139,28 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/salam.jpg" alt="Dr. Salam Al-Augby">
-                    <h4 class="speaker-name">Salam Al-Augby</h4>
+                    <img src="/images/jafarirad.jpg" alt="Dr. Nader Jafari Rad">
+                    <h4 class="speaker-name">Nader Jafari Rad</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kufa</h5>
+                    <h5 class="speaker-university">Shahed University</h5>
+                </li>
+                <li>
+                    <img src="/images/ghasemi.jpg" alt="Dr. Mohsen Ghasemi">
+                    <h4 class="speaker-name">Mohsen Ghasemi</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Urmia University</h5>
+                </li>
+                <li>
+                    <img src="/images/cheraghi.jpg" alt="Abbas Cheraghi">
+                    <h4 class="speaker-name">Abbas Cheraghi</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">Khansar University</h5>
+                </li>
+                <li>
+                    <img src="/images/salam.jpg" alt="دکتر سلام حسن محيسن العكبي">
+                    <h4 class="speaker-name">سلام حسن محيسن العكبي</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
                     <img src="/images/shlaka.jpg" alt="Dr. Hasan Shlaka">
@@ -151,22 +169,10 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
-                    <img src="/images/akbari.jpg" alt="Dr. Saieed Akbari">
-                    <h4 class="speaker-name">Saieed Akbari</h4>
+                    <img src="/images/moradi.jpg" alt="Dr. Somayeh Moradi">
+                    <h4 class="speaker-name">Somayeh Moradi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Sharif University of Technology</h5>
-                </li>
-                <li>
-                    <img src="/images/eslami.jpg" alt="Dr. Hasan Shlaka">
-                    <h4 class="speaker-name">Seyed Mahmoud Sheikholeslami</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Azarbaijan Shahid Madani University</h5>
-                </li>                
-                <li>
-                    <img src="/images/mohebi.jpg" alt="Dr. Akbar Mohebbi">
-                    <h4 class="speaker-name">Akbar Mohebbi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
+                    <h5 class="speaker-university">Ilam University</h5>
                 </li>
             </ul>
         </section>
