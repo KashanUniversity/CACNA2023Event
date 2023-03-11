@@ -151,7 +151,7 @@
                     <h5 class="speaker-university">دانشگاه شاهد</h5>
                 </li>
                 <li>
-                    <img src="/images/aboodi.jpg" alt="دکتر داود خجسته سالکویه">
+                    <img src="/images/khojasteh.jpg" alt="دکتر داود خجسته سالکویه">
                     <h4 class="speaker-name">داود خجسته سالکویه</h4>
                     <h5 class="speaker-university">دانشگاه گیلان</h5>
                 </li>
