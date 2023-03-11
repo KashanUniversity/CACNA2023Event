@@ -54,10 +54,12 @@ com<!DOCTYPE html>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Yazd</h5>
                 </li>
-                <img src="/images/moghaddamfar.jpg" alt="Dr. Alireza Moghaddamfar">
+                <li>
+                    <img src="/images/moghaddamfar.jpg" alt="Dr. Alireza Moghaddamfar">
                     <h4 class="speaker-name">Alireza Moghaddamfar</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">K. N. Toosi University of Technology</h5>
+                </li>
                 <li>
                     <img src="/images/mosavi.jpg" alt="Dr. Hamid Mousavi">
                     <h4 class="speaker-name">Hamid Mousavi</h4>
