@@ -167,16 +167,16 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">Urmia University</h5>
                 </li>
                 <li>
-                    <img src="/images/cheraghi.jpg" alt="Abbas Cheraghi">
+                    <img src="/images/cheraghi.jpg" alt="Dr. Abbas Cheraghi">
                     <h4 class="speaker-name">Abbas Cheraghi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">Khansar University</h5>
                 </li>
                 <li>
-                    <img src="/images/salam.jpg" alt="دکتر سلام حسن محيسن العكبي">
-                    <h4 class="speaker-name">سلام حسن محيسن العكبي</h4>
+                    <img src="/images/salam.jpg" alt="Dr. Salam Hassan Al-augby">
+                    <h4 class="speaker-name">Salam Hassan Al-augby</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کوفه</h5>
+                    <h5 class="speaker-university">University of Kufe</h5>
                 </li>
                 <li>
                     <img src="/images/shlaka.jpg" alt="Dr. Hasan Shlaka">
