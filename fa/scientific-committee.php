@@ -31,6 +31,30 @@
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
+                    <img src="/images/akbari.jpg" alt="دکتر سعید اکبری">
+                    <h4 class="speaker-name">سعید اکبری</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه شریف</h5>
+                </li>
+                <li>
+                    <img src="/images/iranmanesh.jpg" alt="دکتر علی ایرانمنش">
+                    <h4 class="speaker-name">علی ایرانمنش</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه تربیت مدرس</h5>
+                </li>
+                <li>
+                    <img src="/images/davaz.jpg" alt="دکتر بیژن دواز">
+                    <h4 class="speaker-name">بیژن دواز</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه یزد</h5>
+                </li>
+                <li>
+                    <img src="/images/mosavi.jpg" alt="دکتر حمید موسوی">
+                    <h4 class="speaker-name">حمید موسوی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه تبریز</h5>
+                </li>
+                <li>
                     <img src="/images/shalash.jpg" alt="دکتر حیدر باقر شلاش">
                     <h4 class="speaker-name">حیدر باقر شلاش</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -43,10 +67,16 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
-                    <img src="/images/iranmanesh.jpg" alt="دکتر علی ایرانمنش">
-                    <h4 class="speaker-name">علی ایرانمنش</h4>
+                    <img src="/images/ghorbani.jpg" alt="دکتر مجتبی قربانی">
+                    <h4 class="speaker-name">مجتبی قربانی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه تربیت مدرس</h5>
+                    <h5 class="speaker-university">دانشگاه شهید رجایی</h5>
+                </li>
+                <li>
+                    <img src="/images/gholami.jpg" alt="دکتر محمد غلامی">
+                    <h4 class="speaker-name">محمد غلامی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه شهرکرد</h5>
                 </li>
                 <li>
                     <img src="/images/daneshkhah.jpg" alt="دکتر اشرف دانشخواه">
@@ -59,12 +89,6 @@
                     <h4 class="speaker-name">امیرحسین نخودکار حسن آبادی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
-                </li>
-                <li>
-                    <img src="/images/davaz.jpg" alt="دکتر بیژن دواز">
-                    <h4 class="speaker-name">بیژن دواز</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه یزد</h5>
                 </li>
                 <li>
                     <img src="/images/askari.jpg" alt="دکتر جلال عسکری">
@@ -85,12 +109,6 @@
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/mosavi.jpg" alt="دکتر حمید موسوی">
-                    <h4 class="speaker-name">حمید موسوی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه تبریز</h5>
-                </li>
-                <li>
                     <img src="/images/jahani-nejad.jpg" alt="دکتر رضا جهانی نژاد">
                     <h4 class="speaker-name">رضا جهانی نژاد</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -109,34 +127,28 @@
                     <h5 class="speaker-university">گروه مهندسی کامپیوتر، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/cheraghi.jpg" alt="دکتر عباس چراغی">
-                    <h4 class="speaker-name">عباس چراغی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه خوانسار</h5>
-                </li>
-                <li>
                     <img src="/images/bahramian.jpg" alt="دکتر مجتبی بهرامیان">
                     <h4 class="speaker-name">مجتبی بهرامیان</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/images/ghorbani.jpg" alt="دکتر مجتبی قربانی">
-                    <h4 class="speaker-name">مجتبی قربانی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه شهید رجایی</h5>
-                </li>
-                <li>
-                    <img src="/images/gholami.jpg" alt="دکتر محمد غلامی">
-                    <h4 class="speaker-name">محمد غلامی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه شهرکرد</h5>
-                </li>
-                <li>
                     <img src="/images/shamaee.jpg" alt="دکتر مهسا سهیل شمائی">
                     <h4 class="speaker-name">مهسا سهیل شمائی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">گروه علوم کامپیوتر، دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/images/mohebi.jpg" alt="دکتر اکبر محبی">
+                    <h4 class="speaker-name">اکبر محبی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/images/cheraghi.jpg" alt="دکتر عباس چراغی">
+                    <h4 class="speaker-name">عباس چراغی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه خوانسار</h5>
                 </li>
                 <li>
                     <img src="/images/salam.jpg" alt="دکتر سلام حسن محيسن العكبي">
@@ -151,22 +163,10 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
-                    <img src="/images/akbari.jpg" alt="دکتر سعید اکبری">
-                    <h4 class="speaker-name">سعید اکبری</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه شریف</h5>
-                </li>
-                <li>
                     <img src="/images/eslami.jpg" alt="دکتر محمود شیخ الاسلامی">
                     <h4 class="speaker-name">محمود شیخ الاسلامی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه شهید مدنی آذربایجان</h5>
-                </li>
-                <li>
-                    <img src="/images/mohebi.jpg" alt="دکتر اکبر محبی">
-                    <h4 class="speaker-name">اکبر محبی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
             </ul>
         </section>
