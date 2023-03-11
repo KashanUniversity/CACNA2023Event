@@ -149,6 +149,11 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">Shahed University</h5>
                 </li>
                 <li>
+                    <img src="/images/khojasteh.jpg" alt="Dr. Davod khojasteh salkuyeh">
+                    <h4 class="speaker-name">Davod khojasteh salkuyeh</h4>
+                    <h5 class="speaker-university">University of Guilan</h5>
+                </li>
+                <li>
                     <img src="/images/aboodi.jpg" alt="Dr. Mohammad Reza Oboudi">
                     <h4 class="speaker-name">Mohammad Reza Oboudi</h4>
                     <h5 class="speaker-university">Shiraz University</h5>
