@@ -125,7 +125,7 @@ $is_home = true;
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
-                    <img src="/dr-fathtabar.jpg" alt="Gholamhosein Fathtabar">
+                    <img src="/dr-fathtabar.jpg" alt="‪Gholam Hossein Fath-Tabar">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>

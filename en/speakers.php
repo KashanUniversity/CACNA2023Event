@@ -72,8 +72,8 @@ $en = true;
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
-                    <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
+                    <img src="/images/fath-tabar.jpg" alt="‪Gholam Hossein Fath-Tabar">
+                    <h4 class="speaker-name">‪Gholam Hossein Fath-Tabar</h4>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>

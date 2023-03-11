@@ -69,7 +69,7 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="Gholamhosein Fathtabar">
+                    <img src="/images/fath-tabar.jpg" alt="‪Gholam Hossein Fath-Tabar">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>

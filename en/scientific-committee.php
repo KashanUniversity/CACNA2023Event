@@ -25,8 +25,8 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="Dr. Gholamhosein Fathtabar">
-                    <h4 class="speaker-name">Gholamhosein Fathtabar</h4>
+                    <img src="/images/fath-tabar.jpg" alt="Dr. ‪Gholam Hossein Fath-Tabar">
+                    <h4 class="speaker-name">‪Gholam Hossein Fath-Tabar</h4>
                     <h5 class="speaker-university">Chair of the Scientific Committee</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
@@ -113,8 +113,8 @@ com<!DOCTYPE html>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
-                    <img src="/images/nokhodkar.jpg" alt="Amirhosein Nokhodkar HasanAbadi">
-                    <h4 class="speaker-name">Amirhosein Nokhodkar HasanAbadi</h4>
+                    <img src="/images/nokhodkar.jpg" alt="Amirhosein Nokhodkar Hasanabadi">
+                    <h4 class="speaker-name">Amirhosein Nokhodkar Hasanabadi</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
