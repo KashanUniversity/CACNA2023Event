@@ -47,9 +47,21 @@
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                 </li>
                 <li>
+                    <img src="/images/ghorbani.jpg" alt="دکتر مجتبی قربانی">
+                    <h4 class="speaker-name">مجتبی قربانی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه شهید رجایی</h5>
+                </li>
+                <li>
                     <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
                     <h4 class="speaker-name">دکتر حسن دقیق</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
+                </li>
+                <li>
+                    <img src="/images/bahramian.jpg" alt="دکتر مجتبی بهرامیان">
+                    <h4 class="speaker-name">مجتبی بهرامیان</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/arafi.jpg" alt="دکتر رضا عرفی">
