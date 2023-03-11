@@ -68,6 +68,12 @@
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
+                    <img src="/images/mosavi.jpg" alt="دکتر حمید موسوی">
+                    <h4 class="speaker-name">حمید موسوی</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه تبریز</h5>
+                </li>
+                <li>
                     <img src="/images/hashim.jpg" alt="دکتر حیدر هاشم">
                     <h4 class="speaker-name">حیدر هاشم</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
