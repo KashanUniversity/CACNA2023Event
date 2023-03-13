@@ -8,7 +8,7 @@ Some of the main topics of this conference are as follows:
     <li>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12.172 12L9.343 9.172l1.414-1.415L15 12l-4.243 4.243-1.414-1.415z"/></svg>
         <h3>
-            Review Prof. Ashrafi works
+            Review Prof. Ashrafi's works
         </h3>
     </li>
     <li>
