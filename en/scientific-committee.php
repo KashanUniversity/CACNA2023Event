@@ -24,6 +24,8 @@
                     <h5 class="speaker-university">Previous Chair of the Scientific Committee</h5>
                     <h5 class="speaker-university">University of Kashan</h5>
                 </li>
+            </ul>
+            <ul class="speakers">
                 <li>
                     <img src="/images/fath-tabar.jpg" alt="Dr. Gholam Hossein Fath-Tabar">
                     <h4 class="speaker-name">Gholam Hossein Fath-Tabar</h4>
@@ -194,6 +196,18 @@
                     <img src="/images/talebi.jpg" alt="Dr. Yahya Talebi">
                     <h4 class="speaker-name">Yahya Talebi</h4>
                     <h5 class="speaker-university">University of Mazandaran</h5>
+                </li>
+                <li>
+                    <img src="/images/aalehevaz.jpg" alt="Dr. Abdollah Alhevaz">
+                    <h4 class="speaker-name">Abdollah Alhevaz</h4>
+                    <h5 class="speaker-university">Shahrood University of Technology</h5>
+                </li>
+                <li>
+                    <img src="/images/aalian.jpg" alt="Dr. Mehdi Alaeiyan">
+                    <h4 class="speaker-name">
+                        Mehdi Alaeiyan
+                    </h4>
+                    <h5 class="speaker-university">Iran University of Science and Technology</h5>
                 </li>
             </ul>
         </section>

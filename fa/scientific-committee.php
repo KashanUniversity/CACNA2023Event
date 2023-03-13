@@ -22,13 +22,16 @@
                     <img src="/images/ashrafi.jpg" alt="دکتر سیدعلیرضا اشرفی">
                     <h4 class="speaker-name">سیدعلیرضا اشرفی</h4>
                     <h5 class="speaker-university">دبیرعلمی قبلی کنفرانس</h5>
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
+            </ul>
+
+            <ul class="speakers">
                 <li>
                     <img src="/images/fath-tabar.jpg" alt="دکتر غلامحسین فتح تبار">
                     <h4 class="speaker-name">غلامحسین فتح تبار فیروزجایی</h4>
                     <h5 class="speaker-university">دبیرعلمی کنفرانس</h5>
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/darafshe.jpg" alt="دکتر محمدرضا درفشه">
@@ -112,31 +115,31 @@
                     <img src="/images/babamir.jpg" alt="دکتر سیدمرتضی بابامیر">
                     <h4 class="speaker-name">سیدمرتضی بابامیر</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه مهندسی کامپیوتر، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/nokhodkar.jpg" alt="دکتر امیرحسین نخودکار حسن آبادی">
                     <h4 class="speaker-name">امیرحسین نخودکار حسن آبادی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/askari.jpg" alt="دکتر جلال عسکری">
                     <h4 class="speaker-name">جلال عسکری</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/eshraghi.jpg" alt="دکتر حسین اشراقی">
                     <h4 class="speaker-name">حسین اشراقی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/kahkeshani.jpg" alt="دکتر رضا کهکشانی">
                     <h4 class="speaker-name">رضا کهکشانی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
                 </li>
                 <li>
                     <img src="/images/shamaee.jpg" alt="دکتر مهسا سهیل شمائی">
@@ -194,6 +197,18 @@
                     <img src="/images/talebi.jpg" alt="دکتر یحیی طالبی">
                     <h4 class="speaker-name">یحیی طالبی</h4>
                     <h5 class="speaker-university">دانشگاه مازندران</h5>
+                </li>
+                <li>
+                    <img src="/images/aalehevaz.jpg" alt="دکتر عبدالله آل‌هوز">
+                    <h4 class="speaker-name">عبدالله آل‌هوز</h4>
+                    <h5 class="speaker-university">دانشگاه صنعتی شاهرود</h5>
+                </li>
+                <li>
+                    <img src="/images/aalian.jpg" alt="دکتر مهدی علائیان">
+                    <h4 class="speaker-name">
+                    مهدی علائیان
+                    </h4>
+                    <h5 class="speaker-university">دانشگاه علم و صنعت</h5>
                 </li>
             </ul>
         </section>
