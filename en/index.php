@@ -10,7 +10,7 @@ $is_home = true;
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Fourth Conference on Computational Algebra, Computational Number Theory and Applications (Memorial of Professor Alireza Ashrafi)</title>
         <!-- meta tags -->
-        <meta name="description" content="We are very happy to announce the holding of the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 5th to 7th July 2023. The first, second and third conferences of this series were held in Kashan University in the years 2013 (26 to 28 December), 2014 (21 to 23 October) and 2017 (21 to 23 December), and this is the fourth conference of this series. This conference covers all topics of computational algebra, computer algebra, computational number theory and their applications. The lectures of this seminar are virtual and those who are interested are invited to send their articles for this conference.">
+        <meta name="description" content="We are very happy to announce the holding of the 4th Conference on Computational Algebra, Computational Theory of Numbers and Applications on 4th to 6th July 2023. The first, second and third conferences of this series were held in Kashan University in the years 2013 (26 to 28 December), 2014 (21 to 23 October) and 2017 (21 to 23 December), and this is the fourth conference of this series. This conference covers all topics of computational algebra, computer algebra, computational number theory and their applications. The lectures of this seminar are virtual and those who are interested are invited to send their articles for this conference.">
         <meta name="keywords" content="Conference, Event, Talks, Computational theory of groups, Computational displacement algebra, Computational theory of rings, Computational theory of numbers, Coding theory, Algebraic Machine Learning, Complex networks, Computational algebraic combinations, Computational linear algebra, Computing Combinations">
         <!-- Fonts -->
         <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/sahel-font@v3.4.0/dist/font-face.css">
@@ -38,7 +38,7 @@ $is_home = true;
                 <b>
                     4th Conference on Computational Algebra, Computational Number Theory and Applications
                     <br>
-                    5th to 7th July 2023
+                    4th to 6th July 2023
                 </b>
                 <br>
                 We are very happy to announce the 4th Conference on Computational Algebra, Computational Number Theory and Applications (CACNA 2023) will be held at the University of Kashan, on  July 5-7, 2023.
