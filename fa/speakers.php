@@ -112,7 +112,7 @@
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه کوفه</h5>
                     <h5 class="speaker-university">
-                        ...
+                        کد و رمز
                     </h5>
                 </li>
                 <li>
