@@ -94,6 +94,13 @@
                     <h5 class="speaker-university">دانشگاه شهید مدنی آذربایجان</h5>
                 </li>
                 <li>
+                    <img src="/images/aalian.jpg" alt="دکتر مهدی علائیان">
+                    <h4 class="speaker-name">
+                    مهدی علائیان
+                    </h4>
+                    <h5 class="speaker-university">دانشگاه علم و صنعت</h5>
+                </li>
+                <li>
                     <img src="/images/daneshkhah.jpg" alt="دکتر اشرف دانشخواه">
                     <h4 class="speaker-name">اشرف دانشخواه</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -202,13 +209,6 @@
                     <img src="/images/aalehevaz.jpg" alt="دکتر عبدالله آل‌هوز">
                     <h4 class="speaker-name">عبدالله آل‌هوز</h4>
                     <h5 class="speaker-university">دانشگاه صنعتی شاهرود</h5>
-                </li>
-                <li>
-                    <img src="/images/aalian.jpg" alt="دکتر مهدی علائیان">
-                    <h4 class="speaker-name">
-                    مهدی علائیان
-                    </h4>
-                    <h5 class="speaker-university">دانشگاه علم و صنعت</h5>
                 </li>
             </ul>
         </section>

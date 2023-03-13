@@ -93,6 +93,13 @@
                     <h5 class="speaker-university">Azarbaijan Shahid Madani University</h5>
                 </li>
                 <li>
+                    <img src="/images/aalian.jpg" alt="Dr. Mehdi Alaeiyan">
+                    <h4 class="speaker-name">
+                        Mehdi Alaeiyan
+                    </h4>
+                    <h5 class="speaker-university">Iran University of Science and Technology</h5>
+                </li>
+                <li>
                     <img src="/images/daneshkhah.jpg" alt="Ashraf Daneshkhah">
                     <h4 class="speaker-name">Ashraf Daneshkhah</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -201,13 +208,6 @@
                     <img src="/images/aalehevaz.jpg" alt="Dr. Abdollah Alhevaz">
                     <h4 class="speaker-name">Abdollah Alhevaz</h4>
                     <h5 class="speaker-university">Shahrood University of Technology</h5>
-                </li>
-                <li>
-                    <img src="/images/aalian.jpg" alt="Dr. Mehdi Alaeiyan">
-                    <h4 class="speaker-name">
-                        Mehdi Alaeiyan
-                    </h4>
-                    <h5 class="speaker-university">Iran University of Science and Technology</h5>
                 </li>
             </ul>
         </section>
