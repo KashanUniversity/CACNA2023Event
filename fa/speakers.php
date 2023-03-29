@@ -64,12 +64,26 @@
 
             <ul class="speakers">
                 <li>
+                    <img src="/images/stanimirovic.jpg" alt="دکتر Predrag Stanimirović">
+                    <h4 class="speaker-name">Predrag Stanimirović</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه نیش</h5>
+                </li>
+                <li>
                     <img src="/images/jalili.jpg" alt="دکتر مهدی جلیلی">
                     <h4 class="speaker-name">مهدی جلیلی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">دانشگاه RMIT، ملبورن</h5>
                     <h5 class="speaker-university">
                         ...
+                    </h5>
+                </li>
+                <li>
+                    <img src="/images/ghandehari.jpg" alt="دکتر مهیا قندهاری">
+                    <h4 class="speaker-name">مهیا قندهاری</h4>
+                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">
+                    آمار جبری محاسباتی
                     </h5>
                 </li>
                 <li>
@@ -90,7 +104,7 @@
                     </h5>
                 </li>
                 <li>
-                    <img src="/images/fath-tabar.jpg" alt="دکتر دکتر غلامحسین فتح تبار">
+                    <img src="/images/fath-tabar.jpg" alt="دکتر غلامحسین فتح تبار">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
                     <h5 class="speaker-university">

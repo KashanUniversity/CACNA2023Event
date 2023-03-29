@@ -81,6 +81,12 @@
                     <h5 class="speaker-university">University of Kufa</h5>
                 </li>
                 <li>
+                    <img src="/images/poori.jpg" alt="Dr. Alireza Abdollahpouri">
+                    <h4 class="speaker-name">Alireza Abdollahpouri</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Kurdistan</h5>
+                </li>
+                <li>
                     <img src="/images/gholami.jpg" alt="Mohammad Gholami">
                     <h4 class="speaker-name">Mohammad Gholami</h4>
                     <!-- <h5 class="speaker-university"></h5> -->

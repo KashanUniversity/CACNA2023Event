@@ -55,10 +55,21 @@ $en = true;
 
             <ul class="speakers">
                 <li>
+                    <img src="/images/stanimirovic.jpg" alt="Dr. Predrag Stanimirović">
+                    <h4 class="speaker-name">Predrag Stanimirović</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">University of Niš</h5>
+                </li>
+                <li>
                     <img src="/images/jalili.jpg" alt="Dr. Mahdi Jalili">
                     <h4 class="speaker-name">Mahdi Jalili</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">RMIT University, Melbourne</h5>
+                </li>
+                <li>
+                    <img src="/images/ghandehari.jpg" alt="Dr. Mahya Ghandehari">
+                    <h4 class="speaker-name">Mahya Ghandehari</h4>
+                    <h5 class="speaker-university">University of Kashan</h5>
                 </li>
                 <li>
                     <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">

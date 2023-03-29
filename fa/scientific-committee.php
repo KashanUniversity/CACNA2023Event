@@ -88,6 +88,12 @@
                     <h5 class="speaker-university">دانشگاه شهرکرد</h5>
                 </li>
                 <li>
+                    <img src="/images/poori.jpg" alt="دکتر علیرضا عبداله پوری">
+                    <h4 class="speaker-name">علیرضا عبداله پوری</h4>
+                    <!-- <h5 class="speaker-university"></h5> -->
+                    <h5 class="speaker-university">دانشگاه کردستان</h5>
+                </li>
+                <li>
                     <img src="/images/eslami.jpg" alt="دکتر محمود شیخ الاسلامی">
                     <h4 class="speaker-name">محمود شیخ الاسلامی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
