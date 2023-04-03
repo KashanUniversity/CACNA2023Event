@@ -68,6 +68,19 @@ $is_home = true;
         <section class="normal time">
             <h2>زمان‌بندی همایش</h2>
 
+            <b>
+                <a href="cacna2023-fa.zip">
+                    جهت دانلود فایل تمپلیت فارسی مقالات اینجا را لمس کنید.
+                </a>
+            </b>
+            <br>
+            <b>
+                <a href="cacna2023-en.zip">
+                    جهت دانلود فایل تمپلیت انگلیسی مقالات اینجا را لمس کنید.
+                </a>
+            </b>
+            <br>
+
             <ul class="dates">
                 <li>
                     <label>دریافت چکیده تک صفحه ای:</label>
