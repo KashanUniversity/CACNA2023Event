@@ -84,7 +84,7 @@
                 <li>
                     <img src="/images/ghandehari.jpg" alt="دکتر مهیا قندهاری">
                     <h4 class="speaker-name">مهیا قندهاری</h4>
-                    <h5 class="speaker-university">دانشگاه کاشان</h5>
+                    <h5 class="speaker-university">دانشگاه  دلاویر، آمریکا</h5>
                     <h5 class="speaker-university">
                     آمار جبری محاسباتی
                     </h5>
