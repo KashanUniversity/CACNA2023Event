@@ -69,7 +69,7 @@ $en = true;
                 <li>
                     <img src="/images/ghandehari.jpg" alt="Dr. Mahya Ghandehari">
                     <h4 class="speaker-name">Mahya Ghandehari</h4>
-                    <h5 class="speaker-university">University of Kashan</h5>
+                    <h5 class="speaker-university">University of Delaware, US</h5>
                 </li>
                 <li>
                     <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
