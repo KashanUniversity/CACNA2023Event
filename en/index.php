@@ -58,6 +58,13 @@ $is_home = true;
         <section class="normal time">
             <h2>Conference schedule</h2>
 
+            <b>
+                <a href="/cacna2023-en.zip">
+                    For downloading the English tempalte of the conference, please click here.
+                </a>
+            </b>
+            <br>
+
             <ul class="dates">
                 <li>
                     <label>Deadline for Abstract Submission:</label>
