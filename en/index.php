@@ -60,7 +60,7 @@ $is_home = true;
 
             <b>
                 <a href="/cacna2023-en.zip">
-                    For downloading the English tempalte of the conference, please click here.
+                    For downloading the English template of the conference, please click here.
                 </a>
             </b>
             <br>
