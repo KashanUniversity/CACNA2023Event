@@ -90,7 +90,7 @@
                         </path>
                     </svg>
                     <span>
-                        Email: 
+                        Email:
                         <small>
                             <a href="mailto:cacna2023@kashanu.ac.ir">
                                 cacna2023@kashanu.ac.ir

@@ -16,7 +16,7 @@ $en = true;
     </head>
     <body>
         <?php include "_inc/_header.php" ?>
-        
+
         <section class="normal">
             <h2>Registration</h2>
 
