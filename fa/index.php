@@ -155,6 +155,6 @@ $is_home = true;
 
         <?php include "_inc/_footer.php" ?>
 
-        <script type="text/javascript" src="/script.js?ver=1"></script>
+        <script src="/script.js?ver=1"></script>
     </body>
 </html>
