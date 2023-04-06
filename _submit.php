@@ -12,7 +12,7 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
     $file = null;
     if (isset($_FILES["file"])) $file = $_FILES["file"];
 
-    // Save file in papers directorie with a random filename
+    // Save file in papers directory with a random filename
     if (!file_exists("../papers")) {
         mkdir("../papers");
     }
