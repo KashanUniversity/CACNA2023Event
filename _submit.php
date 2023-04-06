@@ -44,8 +44,8 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
     ];
 
     if (isset($file_name)) {
-        $message .= "فایل لاتک مقاله: http://cacna2023.kashanu.ac.ir/papers/$file_name";
-        $obj["file"] = "http://cacna2023.kashanu.ac.ir/papers/" . $file_name;
+        $message .= "فایل لاتک مقاله: https://cacna2023.kashanu.ac.ir/papers/$file_name";
+        $obj["file"] = "https://cacna2023.kashanu.ac.ir/papers/" . $file_name;
     }
     
     // Write and create utf8 file
