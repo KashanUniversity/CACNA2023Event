@@ -1,3 +1,6 @@
+<?php
+$en = true;
+?>
 <!DOCTYPE html>
 <html lang="en_US" dir="ltr">
     <head>
