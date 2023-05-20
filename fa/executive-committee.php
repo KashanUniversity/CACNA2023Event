@@ -50,6 +50,11 @@
                     <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
                 </li>
                 <li>
+                    <img src="/images/zabihi.jpg" alt="فاطمه ذبیحی">
+                    <h4 class="speaker-name">فاطمه ذبیحی</h4>
+                    <h5 class="speaker-university">گروه ریاضی کاربردی، دانشگاه کاشان</h5>
+                </li>
+                <li>
                     <img src="/images/malekian.jpg" alt="محمد حسن ملکیان">
                     <h4 class="speaker-name">محمد حسن ملکیان</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
