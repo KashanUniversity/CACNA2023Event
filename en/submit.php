@@ -47,9 +47,9 @@ require "../_submit.php";
 
                     <label>Suggested presentation method <span class="note">*</span></label>
                     <select name="presentation">
-                        <option value="oral">Oral presentation</option>
-                        <option value="poster-online">Poster presentation - Online</option>
-                        <option value="poster-inperson">Poster presentation - In-Person</option>
+                        <option value="oral-inperson">Oral presentation - In-Person</option>
+                        <option value="oral-online">Oral presentation - Online</option>
+                        <option value="poster">Poster presentation</option>
                     </select>
 
                     <label>Latex file of the abstract <span class="note">*</span></label>
