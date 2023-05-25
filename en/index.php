@@ -68,7 +68,7 @@ $is_home = true;
             <ul class="dates">
                 <li>
                     <label>Deadline for Abstract Submission:</label>
-                    <span>Monday, May 22, 2023</span>
+                    <span>Saturday, June 10, 2023</span>
                     <div class="note">
                         Note: Articles must be sent in either Persian or English and in conference template.
                     </div>
