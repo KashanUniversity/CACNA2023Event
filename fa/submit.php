@@ -46,9 +46,9 @@ require "../_submit.php";
 
                     <label>نحوه پیشنهادی ارائه <span class="note">*</span></label>
                     <select name="presentation">
-                        <option value="oral">ارائه شفاهی</option>
-                        <option value="poster-online">ارائه پوستر - آنلاین</option>
-                        <option value="poster-inperson">ارائه پوستر - حضوری</option>
+                        <option value="oral-online">ارائه شفاهی - آنلاین</option>
+                        <option value="oral-inperson">ارائه شفاهی - حضوری</option>
+                        <option value="poster">ارائه پوستر</option>
                     </select>
 
                     <label>فایل لاتک مقاله <span class="note">*</span></label>
