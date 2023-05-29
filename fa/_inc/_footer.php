@@ -29,6 +29,8 @@
                     </a>
                 </li>
             </ul>
+            
+            <script language="javascript" src="https://conf.isc.ac/trustseal/checkIsc.php?code=۰۲۲۳۰-۵۱۲۸۳"></script>
         </div>
         <div class="col">
             <h6>ارتباط با ما</h6>
