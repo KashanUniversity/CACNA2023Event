@@ -51,11 +51,11 @@ $is_home = true;
             <p>
                 جهت دانلود اسامی مقاله های پذیرش شده می توانید سه فایل زیر که به فرمت اکسل هستند را دانلود و بررسی نمایید:
                 <br>
-                <a href="aa.xlsx">قسمت اول</a>
+                <a href="/aa.xlsx">قسمت اول</a>
                     <br>
-                <a href="bb.xlsx">قسمت دوم</a>
+                <a href="/bb.xlsx">قسمت دوم</a>
                     <br>
-                <a href="cc.xlsx">قسمت سوم</a>
+                <a href="/cc.xlsx">قسمت سوم</a>
             </p>
         </section>
 
