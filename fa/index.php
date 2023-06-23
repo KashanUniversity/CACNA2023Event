@@ -19,6 +19,7 @@ $is_home = true;
     </head>
     <body>
         <?php include "_inc/_header.php" ?>
+
         <section class="normal">
             <h2>قابل توجه کلیه شرکت کنندگان محترم کنفرانس</h2>
             <p>
@@ -44,6 +45,20 @@ $is_home = true;
                 </font>
             </p>
         </section>
+
+        <section class="normal">
+            <h2>اسامی مقاله های پذیرفته شده کنفرانس</h2>
+            <p>
+                جهت دانلود اسامی مقاله های پذیرش شده می توانید سه فایل زیر که به فرمت اکسل هستند را دانلود و بررسی نمایید:
+                <br>
+                <a href="aa.xlsx">قسمت اول</a>
+                    <br>
+                <a href="bb.xlsx">قسمت دوم</a>
+                    <br>
+                <a href="cc.xlsx">قسمت سوم</a>
+            </p>
+        </section>
+
         <section class="normal">
             <h2>درباره همایش</h2>
 
