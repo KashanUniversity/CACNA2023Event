@@ -197,7 +197,7 @@
                     <h4 class="speaker-name">دوستعلی مژده</h4>
                     <h5 class="speaker-university">دانشگاه مازندران</h5>
                     <h5 class="speaker-university">
-                        جبر جابجایی
+                        گراف و ترکیبیات
                     </h5>
                 </li>
                 <li>
