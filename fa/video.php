@@ -1,10 +1,12 @@
-<!DOCTYPE html>
+<?php
+require "../_submit.php";
+?>
 <html lang="fa_IR" dir="rtl">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>ثبت نام - چهارمین کنفرانس جبر محاسباتی، نظریه‌ی محاسباتی اعداد و کاربردها</title>
+        <title>ارسال ویدئو - چهارمین کنفرانس جبر محاسباتی، نظریه‌ی محاسباتی اعداد و کاربردها</title>
         <!-- Fonts -->
         <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/sahel-font@v3.4.0/dist/font-face.css">
         <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/shabnam-font@v5.0.1/dist/font-face.css">
@@ -15,23 +17,51 @@
         <?php include "_inc/_header.php" ?>
 
         <section class="normal">
-            <h2>ثبت نام</h2>
+            <h2>ارسال ویدئو</h2>
+
+            <?php if (isset($sent)) { ?>
+                <font color="green">
+                    از ارسال چکیده/مقاله خود متشکریم. فقط برای اطمینان لطفا مقاله خود را دوباره به آدرس ایمیل ما در <a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a> ارسال کنید.
+                </font>
+            <?php } ?>
 
             <p>
-                در صورت تمایل به ثبت نام به عنوان شرکتد کننده یا سخنران، لطفاً از طریق ایمیل
-                <b><a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a></b>
-                با کمیته علمی کنفرانس در ارتباط باشید.
+                قابل توجه پژوهشگران عزیز، برای ارسال مقاله خود می توانید از فرم زیر ارسال کنید.
 
-                جهت ثبت نام مشخصات خود را در فرمت زیر به ایمیل کنفرانس ارسال کنید:
-                <br>
+                <form class="submit" action="" method="POST" enctype="multipart/form-data">
+                    <label>عنوان مقاله به فارسی <span class="note">*</span></label>
+                    <input type="text" name="title" placeholder="عنوان مقاله به فارسی" required>
 
-                <pre>
-نام و نام خانوادگی:
-نام دانشگاه:
-رشته تحصیلی:
-تخصص:
-نشانی ایمیل:
-</pre>
+                    <label>عنوان مقاله به انگلیسی <span class="note">*</span></label>
+                    <input dir="ltr" type="text" name="title_en" placeholder="عنوان مقاله به انگلیسی" required>
+
+                    <label>نام و نام خانوادگی نویسنده مسئول <span class="note">*</span></label>
+                    <input type="text" name="author" placeholder="نام و نام خانوادگی نویسنده مسئول" required>
+
+                    <label>ایمیل <span class="note">*</span></label>
+                    <input dir="ltr" type="email" name="email" placeholder="ایمیل" required>
+
+                    <label>شماره تماس <span class="note">*</span></label>
+                    <input dir="ltr" type="text" name="phone" placeholder="شماره تماس" required>
+
+                    <label>نحوه پیشنهادی ارائه <span class="note">*</span></label>
+                    <select name="presentation">
+                        <option value="oral-online">ارائه شفاهی - آنلاین</option>
+                        <option value="oral-inperson">ارائه شفاهی - حضوری</option>
+                        <option value="poster">ارائه پوستر</option>
+                    </select>
+
+                    <label>فایل لاتک مقاله <span class="note">*</span></label>
+                    <input type="file" name="file" required>
+                    <!-- <div class="note">توجه: تنها امکان انتخاب یک فایل وجود دارد.</div> -->
+
+                    <button name="submit" type="submit">ارسال</button>
+                </form>
+
+                <div class="note">
+                    در صورتی که هر گونه سوالی دارید می توانید با دبیرخانه همایش از طریق نشانی ایمیل <a href="mailto:cacna2023@kashanu.ac.ir">cacna2023@kashanu.ac.ir</a> تماس حاصل فرمایید.
+                </div>
+            </p>
         </section>
 
         <?php include "_inc/_footer.php" ?>
