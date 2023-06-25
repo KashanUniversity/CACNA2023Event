@@ -36,6 +36,8 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
         "email" => $email,
         "phone" => $phone,
         "presentation" => $presentation,
+        "video" => $video,
+        "poster" => $poster,
         "file" => $file_name,
     ];
 
