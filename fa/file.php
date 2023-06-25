@@ -65,6 +65,8 @@ require "../_submit_file.php";
 
                     <script>
                     document.querySelector("#extra-field-target").onchange = (selectO) => {
+                        console.log(selectO, selectO.value);
+
                         document.querySelector("#extra-field-for-oral").style.display = "none";
                         document.querySelector("#extra-field-for-poster").style.display = "none";
 
