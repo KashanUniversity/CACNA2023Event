@@ -21,13 +21,13 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
     if (!file_exists("../videos")) mkdir("../videos");
     if ($video !== null) {
         $file_name = uniqid() . uniqid() . $video["name"];
-        move_uploaded_file($file["tmp_name"], "../videos/$file_name");
+        move_uploaded_file($video["tmp_name"], "../videos/$file_name");
     }
 
     if (!file_exists("../posters")) mkdir("../posters");
     if ($poster !== null) {
         $file_name = uniqid() . uniqid() . $poster["name"];
-        move_uploaded_file($file["tmp_name"], "../posters/$file_name");
+        move_uploaded_file($poster["tmp_name"], "../posters/$file_name");
     }
 
     $obj = [
