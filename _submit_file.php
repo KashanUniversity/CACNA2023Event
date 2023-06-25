@@ -9,23 +9,20 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
     $phone = $_POST["phone"];
     $presentation = $_POST["presentation"];
 
-    $poster = null;
     $video = null;
     if (isset($_FILES["video"])) $video = $_FILES["video"];
+
+    $poster = null;
     if (isset($_FILES["poster"])) $poster = $_FILES["poster"];
 
     // Save file in papers directory with a random filename
-    if (!file_exists("../posters")) {
-        mkdir("../posters");
-    }
-    if (!file_exists("../videos")) {
-        mkdir("../videos");
-    }
-
+    if (!file_exists("../videos")) mkdir("../videos");
     if ($video !== null) {
         $file_name = uniqid() . uniqid() . $video["name"];
         move_uploaded_file($file["tmp_name"], "../videos/$file_name");
     }
+
+    if (!file_exists("../posters")) mkdir("../posters");
     if ($poster !== null) {
         $file_name = uniqid() . uniqid() . $poster["name"];
         move_uploaded_file($file["tmp_name"], "../posters/$file_name");
