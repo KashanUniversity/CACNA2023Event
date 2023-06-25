@@ -29,11 +29,8 @@ $is_home = true;
                     </font>
                 </a>
             </p>
-        </section>
-
-
-        <section class="normal" style="padding-bottom: 0px; padding-top: 40px;">
-            <h2>دانلود نمونه فایل ارائه مقاله‌ها</h2>
+            <br>
+            <h3>دانلود نمونه فایل ارائه مقاله‌ها</h3>
             <p>
                 <font color="blue">
                     <a href="/cacna2023-talk-fa.pptx">
