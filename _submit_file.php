@@ -36,10 +36,15 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
         "email" => $email,
         "phone" => $phone,
         "presentation" => $presentation,
-        "video" => $video,
-        "poster" => $poster,
         "file" => $file_name,
     ];
+    if ($video !== null) {
+        $obj["link"] = "https://cacna2023.kashanu.ac.ir/videos/" . $file_name;
+    } else if ($poster !== null) {
+        $obj["link"] = "https://cacna2023.kashanu.ac.ir/posters/" . $file_name;
+    }
+    $obj["video"] = $video;
+    $obj["poster"] = $poster;
 
     // Write and create utf8 file
     if ($video !== null) {
