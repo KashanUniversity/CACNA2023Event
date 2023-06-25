@@ -35,10 +35,10 @@
         <li>Registration</li>
     </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>file.php">
-        <li>Send Video</li>
+        <li>Submit presentation file</li>
     </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>submit.php">
-        <li>Send Paper</li>
+        <li>Submit paper</li>
     </a>
     <!-- <li><a href="/schedule.php">Schedule</a></li> -->
     <!-- <li><a href="/contact.php">Contact</a></li> -->
