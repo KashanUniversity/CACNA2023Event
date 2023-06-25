@@ -9,55 +9,45 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
     $phone = $_POST["phone"];
     $presentation = $_POST["presentation"];
 
-    $file = null;
-    if (isset($_FILES["file"])) $file = $_FILES["file"];
+    $poster = null;
+    $video = null;
+    if (isset($_FILES["video"])) $video = $_FILES["video"];
+    if (isset($_FILES["poster"])) $poster = $_FILES["poster"];
 
     // Save file in papers directory with a random filename
-    if (!file_exists("../papers")) {
-        mkdir("../papers");
+    if (!file_exists("../posters")) {
+        mkdir("../posters");
     }
-    if ($file !== null) {
-        $file_name = uniqid() . uniqid() . $file["name"];
-        move_uploaded_file($file["tmp_name"], "../papers/$file_name");
+    if (!file_exists("../videos")) {
+        mkdir("../videos");
     }
 
-    $to = [
-        "cacna2023@kashanu.ac.ir",
-        "alim@kashanu.ac.ir",
-        // "98@hi2.in",
-        "maxbasecode@gmail.com",
-    ];
+    if ($video !== null) {
+        $file_name = uniqid() . uniqid() . $video["name"];
+        move_uploaded_file($file["tmp_name"], "../videos/$file_name");
+    }
+    if ($poster !== null) {
+        $file_name = uniqid() . uniqid() . $poster["name"];
+        move_uploaded_file($file["tmp_name"], "../posters/$file_name");
+    }
 
-    $message = "عنوان: $title
-عنوان (انگلیسی): $title_en
-نویسنده: $author
-ایمیل: $email
-شماره تماس: $phone
-نحوه پیشنهادی ارائه: $presentation
-";
     $obj = [
         "title" => $title,
         "title_en" => $title_en,
         "email" => $email,
         "phone" => $phone,
         "presentation" => $presentation,
+        "file" => $file_name,
     ];
 
-    if (isset($file_name)) {
-        $message .= "فایل لاتک مقاله: https://cacna2023.kashanu.ac.ir/papers/$file_name";
-        $obj["file"] = "https://cacna2023.kashanu.ac.ir/papers/" . $file_name;
-    }
-    
     // Write and create utf8 file
-    file_put_contents("../_secure_papers.txt", $message . "\n==============================\n", FILE_APPEND);
-    file_put_contents("../_secure_papers_utf8.txt", utf8_encode($message) . "\n==============================\n", FILE_APPEND);
-    file_put_contents("../_secure_papers_url.txt", urlencode($message) . "\n==============================\n", FILE_APPEND);
-    file_put_contents("../_secure_papers.json", json_encode($obj, JSON_UNESCAPED_UNICODE) . "\n==============================\n", FILE_APPEND);
-
-    $subject = "ارسال مقاله - چهارمین کنفرانس جبر محاسباتی، نظریه‌ی محاسباتی اعداد و کاربردها";
-    $headers = "From: $email";
-    foreach ($to as $to_item) {
-        mail($to_item, $subject, $message, $headers);
+    if ($video !== null) {
+        file_put_contents("../_secure_videos.json", json_encode($obj, JSON_UNESCAPED_UNICODE) . "\n==============================\n", FILE_APPEND);
+    } else if ($poster !== null) {
+        file_put_contents("../_secure_posters.json", json_encode($obj, JSON_UNESCAPED_UNICODE) . "\n==============================\n", FILE_APPEND);
+    } else {
+        file_put_contents("../_secure_file.json", json_encode($obj, JSON_UNESCAPED_UNICODE) . "\n==============================\n", FILE_APPEND);
     }
+
     $sent = true;
 }
