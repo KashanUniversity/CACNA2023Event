@@ -20,7 +20,7 @@ $is_home = true;
     <body>
         <?php include "_inc/_header.php" ?>
 
-        <section class="normal">
+        <section class="normal" style="margin-bottom: 0px;">
             <h2>اسامی مقاله های پذیرفته شده کنفرانس</h2>
             <p>
                 جهت دانلود اسامی مقاله های پذیرش شده می توانید سه فایل زیر که به فرمت اکسل هستند را دانلود و بررسی نمایید:

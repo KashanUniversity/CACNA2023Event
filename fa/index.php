@@ -20,7 +20,7 @@ $is_home = true;
     <body>
         <?php include "_inc/_header.php" ?>
 
-        <section class="normal">
+        <section class="normal" style="margin-bottom: 0px;">
             <h2>قابل توجه کلیه شرکت کنندگان محترم کنفرانس</h2>
             <p>
                 <a href="news.php">
