@@ -17,7 +17,7 @@ require "../_submit_file.php";
         <?php include "_inc/_header.php" ?>
 
         <section class="normal">
-            <h2>ارسال فایل ارئه</h2>
+            <h2>ارسال فایل ارائه</h2>
 
             <?php if (isset($sent)) { ?>
                 <font color="green">
