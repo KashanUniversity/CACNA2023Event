@@ -32,7 +32,7 @@ $is_home = true;
             <br>
             <h3>دانلود نمونه فایل ارائه مقاله‌ها</h3>
             <p>
-                <font color="blue">
+            <font color="blue">
                     <a href="/cacna2023-talk-fa.pptx">
                         دانلود نمونه فایل پاورپوینت سخنرانی فارسی
                     </a>
@@ -44,7 +44,17 @@ $is_home = true;
                     </a>
                 </font>
                 <br>
-                نمونه فایل ارائه پوستری بزودی اضافه می شود.
+                <font color="blue">
+                    <a href="/cacna2023-poster-fa.pptx">
+                        دانلود نمونه فایل پاورپوینت پوستر فارسی
+                    </a>
+                </font>
+                <br>
+                <font color="blue">
+                    <a href="/cacna2023-poster-en.pptx">
+                        دانلود نمونه فایل پاورپوینت پوستر انگلیسی
+                    </a>
+                </font>
             </p>
         </section>
 
