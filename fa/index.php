@@ -31,6 +31,26 @@ $is_home = true;
             </p>
         </section>
 
+
+        <section class="normal" style="padding-bottom: 0px;">
+            <h2>دانلود نمونه فایل ارائه مقاله‌ها</h2>
+            <p>
+                <font color="blue">
+                    <a href="/cacna2023-talk-fa.pptx">
+                        دانلود نمونه فایل پاورپوینت سخنرانی فارسی
+                    </a>
+                </font>
+                <br>
+                <font color="blue">
+                    <a href="/cacna2023-talk-en.pptx">
+                        دانلود نمونه فایل پاورپوینت سخنرانی انگلیسی
+                    </a>
+                </font>
+                <br>
+                نمونه فایل ارائه های پوستری بزودی اضافه می شود.
+            </p>
+        </section>
+
         <section class="normal">
             <h2>درباره همایش</h2>
 
