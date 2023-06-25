@@ -32,7 +32,7 @@ $is_home = true;
         </section>
 
 
-        <section class="normal" style="padding-bottom: 0px;">
+        <section class="normal" style="padding-bottom: 0px; padding-top: 40px;">
             <h2>دانلود نمونه فایل ارائه مقاله‌ها</h2>
             <p>
                 <font color="blue">
@@ -51,7 +51,7 @@ $is_home = true;
             </p>
         </section>
 
-        <section class="normal">
+        <section class="normal" style="padding-top: 40px;">
             <h2>درباره همایش</h2>
 
             <b style="color: red;">
