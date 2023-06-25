@@ -1,6 +1,6 @@
 <?php
 $en = true;
-require "../_submit.php";
+require "../_submit_file.php";
 ?>
 <html lang="en_US" dir="ltr">
     <head>
@@ -30,10 +30,10 @@ require "../_submit.php";
                 Attention, dear researchers, you can send your article using the form below.
 
                 <form class="submit" action="" method="POST" enctype="multipart/form-data">
-                    <label>Title of the article in English <span class="note">*</span></label>
+                    <label>Title of the article/talk in English <span class="note">*</span></label>
                     <input dir="ltr" type="text" name="title_en" placeholder="Title of the article in English" required>
 
-                    <label>Title of the article is in Persian (If you are an Iranian)</label>
+                    <label>Title of the article/talk is in Persian (If you are an Iranian)</label>
                     <input type="text" name="title" placeholder="Title of the article is in Farsi">
 
                     <label>Name and surname of the responsible author <span class="note">*</span></label>
@@ -47,14 +47,34 @@ require "../_submit.php";
 
                     <label>Suggested presentation method <span class="note">*</span></label>
                     <select name="presentation">
-                        <option value="oral-inperson">Oral presentation - In-Person</option>
-                        <option value="oral-online">Oral presentation - Online</option>
+                        <option value="oral">Oral presentation</option>
                         <option value="poster">Poster presentation</option>
                     </select>
 
                     <label>Latex file of the abstract <span class="note">*</span></label>
                     <input type="file" name="file" required>
                     <!-- <div class="note">&#1064;&#1028;&#1065;Ђ&#1064;¬&#1065;‡: &#1064;&#1028;&#1065;†&#1065;‡&#1064;§ &#1064;§&#1065;…&#1066;©&#1064;§&#1065;† &#1064;§&#1065;†&#1064;&#1028;&#1064;®&#1064;§&#1064;&#1025; &#1067;&#1034;&#1066;© &#1065;&#1027;&#1064;§&#1067;&#1034;&#1065;„ &#1065;Ђ&#1064;¬&#1065;Ђ&#1064;&#1031; &#1064;&#1031;&#1064;§&#1064;±&#1064;&#1031;.</div> -->
+
+                    <div id="extra-field-for-oral" style="display: none;">
+                        <label>Video file <span class="note">*</span></label>
+                        <input type="file" name="video" required>
+                        <span>Maximum size is 35 MB.</span>
+                    </div>
+                    <div id="extra-field-for-poster" style="display: none;">
+                        <label>PowerPoint file <span class="note">*</span></label>
+                        <input type="file" name="poster" required>
+                        <span>Maximum size is 10 MB.</span>
+                    </div>
+
+                    <script>
+                    document.querySelector("#extra-field-target").onchange = (selectO) => {
+                        document.querySelector("#extra-field-for-oral").style.display = "none";
+                        document.querySelector("#extra-field-for-poster").style.display = "none";
+
+                        if (selectO.value === "oral") document.querySelector("#extra-field-for-oral").style.display = "block";
+                        else if (selectO.value === "poster") document.querySelector("#extra-field-for-poster").style.display = "block";
+                    };
+                    </script>
 
                     <button name="submit" type="submit">Submit</button>
                 </form>

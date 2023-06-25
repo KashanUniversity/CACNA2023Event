@@ -34,7 +34,7 @@
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>registration.php">
         <li>Registration</li>
     </a>
-    <a href="/<?= isset($en) ? "en/" : "fa/" ?>video.php">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>file.php">
         <li>Send Video</li>
     </a>
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>submit.php">

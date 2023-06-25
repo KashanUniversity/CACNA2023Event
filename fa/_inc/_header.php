@@ -35,7 +35,7 @@
     <a href="/<?= isset($en) ? "en/" : "fa/" ?>registration.php">
         <li>ثبت‌نام</li>
     </a>
-    <a href="/<?= isset($en) ? "en/" : "fa/" ?>video.php">
+    <a href="/<?= isset($en) ? "en/" : "fa/" ?>file.php">
         <li>ارسال ویدئو</li>
     </a>
     <a href="https://math.kashanu.ac.ir/fa/form/1040/%DB%B4th-conference-on-computational-algebra-computational-number-theory-and-applications-memorial-of-professor-alireza-ashrafi-">
