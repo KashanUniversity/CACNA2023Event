@@ -70,8 +70,16 @@ require "../_submit_file.php";
                         document.querySelector("#extra-field-for-oral").style.display = "none";
                         document.querySelector("#extra-field-for-poster").style.display = "none";
 
-                        if (selectO.target.value === "oral") document.querySelector("#extra-field-for-oral").style.display = "block";
-                        else if (selectO.target.value === "poster") document.querySelector("#extra-field-for-poster").style.display = "block";
+                        if (selectO.target.value === "oral") {
+                            document.querySelector("#extra-field-for-oral").style.display = "block";
+                            document.querySelector("#extra-field-for-oral input").setAttribute("required", "");
+                            document.querySelector("#extra-field-for-poster input").removeAttribute("required");
+                        }
+                        else if (selectO.target.value === "poster") {
+                            document.querySelector("#extra-field-for-poster").style.display = "block";
+                            document.querySelector("#extra-field-for-poster input").setAttribute("required", "");
+                            document.querySelector("#extra-field-for-oral input").removeAttribute("required");
+                        }
                     };
                     document.querySelector("#extra-field-for-oral input").onchange = function() {
                         if(this.files[0].size > 1048576 * 36) {
