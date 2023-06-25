@@ -46,7 +46,8 @@ require "../_submit_file.php";
                     <input dir="ltr" type="text" name="phone" placeholder="Phone number" required>
 
                     <label>Suggested presentation method <span class="note">*</span></label>
-                    <select name="presentation">
+                    <select id="extra-field-target" name="presentation" required="">
+                        <option selected="">Please select</option>
                         <option value="oral">Oral presentation</option>
                         <option value="poster">Poster presentation</option>
                     </select>
@@ -75,6 +76,18 @@ require "../_submit_file.php";
 
                         if (selectO.target.value === "oral") document.querySelector("#extra-field-for-oral").style.display = "block";
                         else if (selectO.target.value === "poster") document.querySelector("#extra-field-for-poster").style.display = "block";
+                    };
+                    document.querySelector("#extra-field-for-oral input").onchange = function() {
+                        if(this.files[0].size > 1048576 * 36){
+                            alert("File is too big!");
+                            this.value = "";
+                        };
+                    };
+                    document.querySelector("#extra-field-for-poster input").onchange = function() {
+                        if(this.files[0].size > 2097152 * 5){
+                            alert("File is too big!");
+                            this.value = "";
+                        };
                     };
                     </script>
 
