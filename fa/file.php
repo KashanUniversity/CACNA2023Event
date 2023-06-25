@@ -65,13 +65,13 @@ require "../_submit_file.php";
 
                     <script>
                     document.querySelector("#extra-field-target").onchange = (selectO) => {
-                        console.log(selectO, selectO.value);
+                        console.log(selectO, selectO.target.value);
 
                         document.querySelector("#extra-field-for-oral").style.display = "none";
                         document.querySelector("#extra-field-for-poster").style.display = "none";
 
-                        if (selectO.value === "oral") document.querySelector("#extra-field-for-oral").style.display = "block";
-                        else if (selectO.value === "poster") document.querySelector("#extra-field-for-poster").style.display = "block";
+                        if (selectO.target.value === "oral") document.querySelector("#extra-field-for-oral").style.display = "block";
+                        else if (selectO.target.value === "poster") document.querySelector("#extra-field-for-poster").style.display = "block";
                     };
                     </script>
 
