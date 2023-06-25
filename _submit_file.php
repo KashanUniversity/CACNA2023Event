@@ -11,9 +11,11 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
 
     $video = null;
     if (isset($_FILES["video"])) $video = $_FILES["video"];
+    if ($video !== null && ($video['error'] == 4 || ($video['size'] == 0 && $video['error'] == 0))) $video = null;
 
     $poster = null;
     if (isset($_FILES["poster"])) $poster = $_FILES["poster"];
+    if ($poster !== null && ($poster['error'] == 4 || ($poster['size'] == 0 && $poster['error'] == 0))) $poster = null;        
 
     // Save file in papers directory with a random filename
     if (!file_exists("../videos")) mkdir("../videos");
