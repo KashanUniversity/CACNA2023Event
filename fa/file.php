@@ -27,7 +27,7 @@ require "../_submit_file.php";
             <?php } ?>
 
             <p>
-                قابل توجه پژوهشگران عزیز، برای ارسال فایل ارائه خود می توانید از فرم زیر ارسال کنید.
+                قابل توجه پژوهشگران عزیز، لطفا فایل ارائه خود را از طریق فرم زیر ارسال نمایید.
 
                 <form class="submit" action="" method="POST" enctype="multipart/form-data">
                     <label>عنوان سخنرانی/مقاله به فارسی <span class="note">*</span></label>

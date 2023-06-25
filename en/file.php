@@ -27,7 +27,7 @@ require "../_submit_file.php";
             <?php } ?>
 
             <p>
-                Attention, dear researchers, you can send your article using the form below.
+                Attention, dear researchers, you can send your presentation file using the following form.
 
                 <form class="submit" action="" method="POST" enctype="multipart/form-data">
                     <label>Title of the article/talk in English <span class="note">*</span></label>
