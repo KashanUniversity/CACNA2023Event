@@ -78,20 +78,20 @@ require "../_submit_file.php";
                         else if (selectO.target.value === "poster") document.querySelector("#extra-field-for-poster").style.display = "block";
                     };
                     document.querySelector("#extra-field-for-oral input").onchange = function() {
-                        if(this.files[0].size > 1048576 * 36){
+                        if(this.files[0].size > 1048576 * 36) {
                             alert("File is too big!");
                             this.value = "";
                         };
                     };
                     document.querySelector("#extra-field-for-poster input").onchange = function() {
-                        if(this.files[0].size > 2097152 * 5){
+                        if(this.files[0].size > 2097152 * 5) {
                             alert("File is too big!");
                             this.value = "";
                         };
                     };
                     </script>
 
-                    <button name="submit" type="submit">Submit</button>
+                    <button name="submit" type="submit">Submit presentation file</button>
                 </form>
 
                 <div class="note">
