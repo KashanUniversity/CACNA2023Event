@@ -88,7 +88,7 @@ require "../_submit_file.php";
                         };
                     };
                     document.querySelector("#extra-field-for-poster input").onchange = function() {
-                        if(this.files[0].size > 2097152 * 5) {
+                        if(this.files[0].size > 2097152 * 10) {
                             alert("حجم فایل انتخابی شما فراتر از حد مجاز است!");
                             this.value = "";
                         };
