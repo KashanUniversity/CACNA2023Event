@@ -48,14 +48,6 @@
                         گروه متناهی
                     </h5>
                 </li>
-                <li>
-                    <img src="/images/zare.jpg" alt="Dr. Rashid Zaare-Nahandi">
-                    <h4 class="speaker-name">رشید زارع‌ نهندی</h4>
-                    <h5 class="speaker-university">دانشگاه تحصيلات تکمیلی علوم پايه زنجان</h5>
-                    <h5 class="speaker-university">
-                    جبر جابجایی محاسباتی
-                    </h5>
-                </li>
             </ul>
         </section>
 
@@ -90,23 +82,6 @@
                     </h5>
                 </li>
                 <li>
-                    <img src="/images/daghigh.jpg" alt="دکتر حسن دقیق">
-                    <h4 class="speaker-name">حسن دقیق</h4>
-                    <h5 class="speaker-university">دانشگاه کاشان</h5>
-                    <h5 class="speaker-university">
-                        نظریه محاسباتی اعداد
-                    </h5>
-                </li>
-                <li>
-                    <img src="/images/shakur.jpg" alt="دکتر علی شکور">
-                    <h4 class="speaker-name">علی شکور</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کوفه</h5>
-                    <h5 class="speaker-university">
-                        ابزارهای جبری در دستگاه‌های دینامیکی
-                    </h5>
-                </li>
-                <li>
                     <img src="/images/fath-tabar.jpg" alt="دکتر غلامحسین فتح تبار">
                     <h4 class="speaker-name">دکتر غلامحسین فتح تبار</h4>
                     <h5 class="speaker-university">دانشگاه کاشان</h5>
@@ -124,15 +99,6 @@
                     </h5>
                 </li>
                 <li>
-                    <img src="/images/hashim.jpg" alt="دکتر حیدر هاشم">
-                    <h4 class="speaker-name">حیدر هاشم</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه کوفه</h5>
-                    <h5 class="speaker-university">
-                        کد و رمز
-                    </h5>
-                </li>
-                <li>
                     <img src="/images/ghorbani.jpg" alt="دکتر مجتبی قربانی">
                     <h4 class="speaker-name">مجتبی قربانی</h4>
                     <!-- <h5 class="speaker-university"></h5> -->
@@ -147,24 +113,6 @@
                     <h5 class="speaker-university">دانشگاه یزد</h5>
                     <h5 class="speaker-university">
                         گراف و ترکیبیات
-                    </h5>
-                </li>
-                <li>
-                    <img src="/images/bahramian.jpg" alt="دکتر مجتبی بهرامیان">
-                    <h4 class="speaker-name">مجتبی بهرامیان</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">گروه ریاضی محض، دانشگاه کاشان</h5>
-                    <h5 class="speaker-university">
-                        کد و رمز
-                    </h5>
-                </li>
-                <li>
-                    <img src="/images/arafi.jpg" alt="دکتر رضا عرفی">
-                    <h4 class="speaker-name">رضا عرفی</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">دانشگاه خوارزمی</h5>
-                    <h5 class="speaker-university">
-                        نظریه محاسباتی گروه
                     </h5>
                 </li>
                 <li>
