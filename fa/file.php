@@ -58,7 +58,7 @@ require "../_submit_file.php";
                         <span>نهایت حجم: 40 مگابایت</span>
                     </div>
                     <div id="extra-field-for-poster" style="display: none;">
-                        <label>فایل پاورپوینت <span class="note">*</span></label>
+                        <label>ویدئو ارائه <span class="note">*</span></label>
                         <input type="file" name="poster" required>
                         <span>نهایت حجم: 20 مگابایت</span>
                     </div>
