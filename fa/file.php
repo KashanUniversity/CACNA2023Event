@@ -55,12 +55,12 @@ require "../_submit_file.php";
                     <div id="extra-field-for-oral" style="display: none;">
                         <label>ویدئو سخنرانی <span class="note">*</span></label>
                         <input type="file" name="video" required>
-                        <span>نهایت حجم: 35 مگابایت</span>
+                        <span>نهایت حجم: 40 مگابایت</span>
                     </div>
                     <div id="extra-field-for-poster" style="display: none;">
                         <label>فایل پاورپوینت <span class="note">*</span></label>
                         <input type="file" name="poster" required>
-                        <span>نهایت حجم: 10 مگابایت</span>
+                        <span>نهایت حجم: 20 مگابایت</span>
                     </div>
 
                     <script>
@@ -82,13 +82,13 @@ require "../_submit_file.php";
                         }
                     };
                     document.querySelector("#extra-field-for-oral input").onchange = function() {
-                        if(this.files[0].size > 1048576 * 36) {
+                        if(this.files[0].size > 1048576 * 40) {
                             alert("حجم فایل انتخابی شما فراتر از حد مجاز است!");
                             this.value = "";
                         };
                     };
                     document.querySelector("#extra-field-for-poster input").onchange = function() {
-                        if(this.files[0].size > 2097152 * 10) {
+                        if(this.files[0].size > 2097152 * 20) {
                             alert("حجم فایل انتخابی شما فراتر از حد مجاز است!");
                             this.value = "";
                         };
