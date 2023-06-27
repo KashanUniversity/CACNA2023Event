@@ -42,11 +42,6 @@ $en = true;
                     <!-- <h5 class="speaker-university"></h5> -->
                     <h5 class="speaker-university">University of Isfahan</h5>
                 </li>
-                <li>
-                    <img src="/images/zare.jpg" alt="Dr. Rashid Zaare-Nahandi">
-                    <h4 class="speaker-name">Rashid Zaare-Nahandi</h4>
-                    <h5 class="speaker-university">Institute for Advanced Studies in Basic Sciences</h5>
-                </li>
             </ul>
         </section>
 
@@ -72,17 +67,6 @@ $en = true;
                     <h5 class="speaker-university">University of Delaware, US</h5>
                 </li>
                 <li>
-                    <img src="/images/daghigh.jpg" alt="Dr. Hasan Daghigh">
-                    <h4 class="speaker-name">Hasan Daghigh</h4>
-                    <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
-                    <img src="/images/shakur.jpg" alt="Dr. Ali Shukur">
-                    <h4 class="speaker-name">Ali Shukur</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kufa</h5>
-                </li>
-                <li>
                     <img src="/images/fath-tabar.jpg" alt="Dr. Gholam Hossein Fath-Tabar">
                     <h4 class="speaker-name">Gholam Hossein Fath-Tabar</h4>
                     <h5 class="speaker-university">University of Kashan</h5>
@@ -94,27 +78,9 @@ $en = true;
                     <h5 class="speaker-university">University of Tabriz</h5>
                 </li>
                 <li>
-                    <img src="/images/hashim.jpg" alt="Dr. Hayder Hashim">
-                    <h4 class="speaker-name">Hayder Hashim</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kufa</h5>
-                </li>
-                <li>
                     <img src="/images/alikhani.jpg" alt="Dr. Saeid Alikhani">
                     <h4 class="speaker-name">Saeid Alikhani</h4>
                     <h5 class="speaker-university">Yazd University</h5>
-                </li>
-                <li>
-                    <img src="/images/bahramian.jpg" alt="Dr. Mojtaba Bahramian">
-                    <h4 class="speaker-name">Mojtaba Bahramian</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">University of Kashan</h5>
-                </li>
-                <li>
-                    <img src="/images/arafi.jpg" alt="Dr. Reza Orfi">
-                    <h4 class="speaker-name">Reza Orfi</h4>
-                    <!-- <h5 class="speaker-university"></h5> -->
-                    <h5 class="speaker-university">Kharazmi University</h5>
                 </li>
                 <li>
                     <img src="/images/javadi.jpg" alt="Dr. Ramin Javadi">
