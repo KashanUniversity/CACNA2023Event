@@ -22,6 +22,36 @@ $is_home = true;
 
         <?php include "_inc/_header.php" ?>
 
+
+        <section class="normal" style="padding-bottom: 0px;">
+            <h2>برنامه زمانی جلسه و ارائه های کنفرانس</h2>
+            <p>
+<!--                 <a href="program.php">
+                    <font color="red">
+                        جهت مشاهده جدول برنامه زمانی کنفرانس اینجا کلیک کنید.
+                    </font>
+                </a>
+            </p> -->
+                <a href="/4july.pdf">
+                    <font color="red">
+                        Programs of the first day of the conference - 4th of July 2023
+                    </font>
+                </a>
+                <br>
+                <a href="/5july.pdf">
+                    <font color="red">
+                        Programs of the second day of the conference - 5th of July 2023
+                    </font>
+                </a>
+                <br>
+                <a href="/6july.pdf">
+                    <font color="red">
+                        Programs of the second day of the conference - 6th of July 2023
+                    </font>
+                </a>
+            </p>
+        </section>
+
         <section class="normal">
             <h2>About conference</h2>
 
