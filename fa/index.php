@@ -21,6 +21,16 @@ $is_home = true;
         <?php include "_inc/_header.php" ?>
 
         <section class="normal" style="padding-bottom: 0px;">
+            <h2>برنامه زمانی جلسه و ارائه های کنفرانس</h2>
+            <p>
+                <a href="program.php">
+                    <font color="red">
+                        جهت مشاهده جدول برنامه زمانی کنفرانس اینجا کلیک کنید.
+                    </font>
+                </a>
+            </p>
+            <br>
+
             <h2>قابل توجه کلیه شرکت کنندگان محترم کنفرانس</h2>
             <p>
                 <a href="news.php">
