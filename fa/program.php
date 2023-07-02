@@ -74,11 +74,11 @@
 
 </tbody>
               </table>
-              
 
 
+		<br><br>
+         
 
-          
               <table width="100%" border="1">
                 <thead>
                 <tr>
@@ -162,9 +162,7 @@
               </table>
 
 
-
-
-
+		<br><br>
 
           
           
@@ -195,7 +193,9 @@
               </table>
 
 
-          
+          		<br><br>
+
+		
               <table width="100%" border="1">
                 <thead>
                 <tr>
