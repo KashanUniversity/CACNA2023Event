@@ -43,33 +43,33 @@
                 <tbody>
                   <tr>
                     <td>Opening</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/i0v8l3j9vvglswsno4vp</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/i0v8l3j9vvglswsno4vp">https://meeting.kashanu.ac.ir/guest-join/i0v8l3j9vvglswsno4vp</a></td>
                   </tr>
 
 
                                   <tr>
                     <td>Tuesday-Agebra (A)</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/z4qlq3wph9l5ehaaglt8</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/z4qlq3wph9l5ehaaglt8">https://meeting.kashanu.ac.ir/guest-join/z4qlq3wph9l5ehaaglt8</a></td>
                   </tr>
 
                                   <tr>
                     <td>Tuesday-Algebra(B)</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/fkk2mubxqufvxx9d55iy</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/fkk2mubxqufvxx9d55iy">https://meeting.kashanu.ac.ir/guest-join/fkk2mubxqufvxx9d55iy</a></td>
                   </tr>
 
                                   <tr>
                     <td>Tuesday-Invited Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/jkq40ln3fpqcn13pkmg4</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/jkq40ln3fpqcn13pkmg4">https://meeting.kashanu.ac.ir/guest-join/jkq40ln3fpqcn13pkmg4</a></td>
                   </tr>
 
                                   <tr>
                     <td>Tuesday-Graph(A)</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/971fvr1f08s4it8i2q2v</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/971fvr1f08s4it8i2q2v">https://meeting.kashanu.ac.ir/guest-join/971fvr1f08s4it8i2q2v</a></td>
                   </tr>
 
                                   <tr>
                     <td>Tuesday-Numerical Analysis</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/ruts3xu5kjvw8z1aggaf</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/ruts3xu5kjvw8z1aggaf">https://meeting.kashanu.ac.ir/guest-join/ruts3xu5kjvw8z1aggaf</a></td>
                   </tr>
 
 </tbody>
@@ -88,13 +88,13 @@
                 <tbody>
                   <tr>
                     <td>Tuesday-(Herzog)_Keynote Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/2lnn6pu80stphq87y0gm</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/2lnn6pu80stphq87y0gm">https://meeting.kashanu.ac.ir/guest-join/2lnn6pu80stphq87y0gm</a></td>
                   </tr>
 
 
                   <tr>
                     <td>Tuesday-Algebra(A)</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/a7mdffn1n3nmanl9dfaw</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/a7mdffn1n3nmanl9dfaw">https://meeting.kashanu.ac.ir/guest-join/a7mdffn1n3nmanl9dfaw</a></td>
                   </tr>
 
 
@@ -102,26 +102,26 @@
 
                   <tr>
                     <td>Tuesday-Algebra(B)</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/c8wbm1vgqyv6w7tfo04e</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/c8wbm1vgqyv6w7tfo04e">https://meeting.kashanu.ac.ir/guest-join/c8wbm1vgqyv6w7tfo04e</a></td>
                   </tr>
 
 
                   <tr>
                     <td>Tuesday-Keynote Speaker Graph and Computer Science</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/8940zb0h272ckyv43n08</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/8940zb0h272ckyv43n08">https://meeting.kashanu.ac.ir/guest-join/8940zb0h272ckyv43n08</a></td>
                   </tr>
 
 
                   <tr>
                     <td>Tuesday-Graph(A)</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/bl1obdxjs9y3p2o5i2y2</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/bl1obdxjs9y3p2o5i2y2">https://meeting.kashanu.ac.ir/guest-join/bl1obdxjs9y3p2o5i2y2</a></td>
                   </tr>
 
 
 
                   <tr>
                     <td>Tuesday-(P. Stanimirovic)_Keynote Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/5my4tek13ujccptd1rlg</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/5my4tek13ujccptd1rlg">https://meeting.kashanu.ac.ir/guest-join/5my4tek13ujccptd1rlg</a></td>
                   </tr>
 
 
@@ -130,7 +130,7 @@
 
                   <tr>
                     <td>Tuesday-(M. Javarsineh)_Invited Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/oirav1n5u66tcaowwpml</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/oirav1n5u66tcaowwpml">https://meeting.kashanu.ac.ir/guest-join/oirav1n5u66tcaowwpml</a></td>
                   </tr>
 
 
@@ -138,25 +138,25 @@
 
                   <tr>
                     <td>Tuesday-Graph(B)</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/cvgrjk4tqj1q1yera0wz</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/cvgrjk4tqj1q1yera0wz">https://meeting.kashanu.ac.ir/guest-join/cvgrjk4tqj1q1yera0wz</a></td>
                   </tr>
 
 
                   <tr>
                     <td>Tuesday-Optimization</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/nl7adw9d56vbiemhrcgc</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/nl7adw9d56vbiemhrcgc">https://meeting.kashanu.ac.ir/guest-join/nl7adw9d56vbiemhrcgc</a></td>
                   </tr>
 
 
                   <tr>
                     <td>Tuesday-(Jalili)_Keynote Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/xk8fwtn5rbq5k533r110</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/xk8fwtn5rbq5k533r110">https://meeting.kashanu.ac.ir/guest-join/xk8fwtn5rbq5k533r110</a></td>
                   </tr>
 
 
                   <tr>
                     <td>Tuesday_Computer Science</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/djmr0sb8lxzshxsme70j</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/djmr0sb8lxzshxsme70j">https://meeting.kashanu.ac.ir/guest-join/djmr0sb8lxzshxsme70j</a></td>
                   </tr>
                 </tbody>
               </table>
@@ -175,19 +175,19 @@
                 <tbody>
                   <tr>
                     <td>Wednesday-Algebra</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/uo8ozet5u7dxb3ua03oi</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/uo8ozet5u7dxb3ua03oi">https://meeting.kashanu.ac.ir/guest-join/uo8ozet5u7dxb3ua03oi</a></td>
                   </tr>
                   <tr>
                     <td>Wednesday-Graph and Computer Science</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/iyg6yi269pjhvovv3751</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/iyg6yi269pjhvovv3751">https://meeting.kashanu.ac.ir/guest-join/iyg6yi269pjhvovv3751</a></td>
                   </tr>
                   <tr>
                     <td>Wednesday-Graph</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/6ct5o8leh64x2yp6wkyc</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/6ct5o8leh64x2yp6wkyc">https://meeting.kashanu.ac.ir/guest-join/6ct5o8leh64x2yp6wkyc</a></td>
                   </tr>
                   <tr>
                     <td>Wednesday-(Alain Bretto)-Keynote Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/x2cl1osko01hit8q3r3n</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/x2cl1osko01hit8q3r3n">https://meeting.kashanu.ac.ir/guest-join/x2cl1osko01hit8q3r3n</a></td>
                   </tr>
                 </tbody>
               </table>
@@ -205,19 +205,19 @@
                 <tbody>
                   <tr>
                     <td>Wednesday-(M. Ghandhari)_Keynote Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/bnf4wlvqqk754yp0r0a6</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/bnf4wlvqqk754yp0r0a6">https://meeting.kashanu.ac.ir/guest-join/bnf4wlvqqk754yp0r0a6</a></td>
                   </tr>
                   <tr>
                     <td>Wednesday_Graph</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/u0hl9hurxr7ayas3hwfn</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/u0hl9hurxr7ayas3hwfn">https://meeting.kashanu.ac.ir/guest-join/u0hl9hurxr7ayas3hwfn</a></td>
                   </tr>
                   <tr>
                     <td>Wednesday_Algebra</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/hq721g1aid0x8vol5081</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/hq721g1aid0x8vol5081">https://meeting.kashanu.ac.ir/guest-join/hq721g1aid0x8vol5081</a></td>
                   </tr>
                   <tr>
                     <td>Poster</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/7174mosiiywfjpamzzr2</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/7174mosiiywfjpamzzr2">https://meeting.kashanu.ac.ir/guest-join/7174mosiiywfjpamzzr2</a></td>
                   </tr>
                 </tbody>
               </table>
@@ -253,11 +253,11 @@
                 <tbody>
                   <tr>
                     <td>Thursday-(Abdollahi)_Keynote talk</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/fqn1g9yis09bcdaj0hom</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/fqn1g9yis09bcdaj0hom">https://meeting.kashanu.ac.ir/guest-join/fqn1g9yis09bcdaj0hom</a></td>
                   </tr>
                   <tr>
                     <td>Group-Graph</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/9lb25acp7wexx1zq4efi</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/9lb25acp7wexx1zq4efi">https://meeting.kashanu.ac.ir/guest-join/9lb25acp7wexx1zq4efi</a></td>
                   </tr>
                 </tbody>
               </table>
@@ -277,30 +277,30 @@
                 <tbody>
                   <tr>
                     <td>Thursday-(Mosavi)_Keynote Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/06oh40zwnu998juap9ar</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/06oh40zwnu998juap9ar">https://meeting.kashanu.ac.ir/guest-join/06oh40zwnu998juap9ar</a></td>
                   </tr>
                   <tr>
                     <td>Thursday_Group</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/ygzjef4k50h0079ll9zv</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/ygzjef4k50h0079ll9zv">https://meeting.kashanu.ac.ir/guest-join/ygzjef4k50h0079ll9zv</a></td>
                   </tr>
 
                 
                 
                                   <tr>
                     <td>Thursday-(Alikhani)_Keynote Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/leqwehfx9nabxras0vsz</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/leqwehfx9nabxras0vsz">https://meeting.kashanu.ac.ir/guest-join/leqwehfx9nabxras0vsz</a></td>
                   </tr>
                   <tr>
                     <td>Thursday Graph</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/op2ex2rdqy9g2alz18ft</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/op2ex2rdqy9g2alz18ft">https://meeting.kashanu.ac.ir/guest-join/op2ex2rdqy9g2alz18ft</a></td>
                   </tr>
                   <tr>
                     <td>Thursday-(Tavakoli)_Invited Speaker</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/dm915vl77g5l2yshykax</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/dm915vl77g5l2yshykax">https://meeting.kashanu.ac.ir/guest-join/dm915vl77g5l2yshykax</a></td>
                   </tr>
                   <tr>
                     <td>Closing Ceremony</td>
-                    <td>https://meeting.kashanu.ac.ir/guest-join/xstg290g519jqrb52v6j</td>
+                    <td><a href="https://meeting.kashanu.ac.ir/guest-join/xstg290g519jqrb52v6j">https://meeting.kashanu.ac.ir/guest-join/xstg290g519jqrb52v6j</a></td>
                   </tr>
 </tbody>
               </table>
