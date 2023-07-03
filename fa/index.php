@@ -23,12 +23,13 @@ $is_home = true;
         <section class="normal" style="padding-bottom: 0px;">
             <h2>برنامه زمانی جلسه و ارائه های کنفرانس</h2>
             <p>
-<!--                 <a href="program.php">
+                 <a href="program.php">
                     <font color="red">
                         جهت مشاهده جدول برنامه زمانی کنفرانس اینجا کلیک کنید.
                     </font>
                 </a>
-            </p> -->
+                <br>
+
                 <a href="/4july.pdf">
                     <font color="red">
                         مشاهده برنامه زمانی سه شنبه 13ام تیرماه 1402
