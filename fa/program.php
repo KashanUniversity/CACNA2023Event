@@ -48,7 +48,7 @@
 
 
                                   <tr>
-                    <td>Tuesday-Agebra (A)</td>
+                    <td>Tuesday-Algebra(A)</td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/z4qlq3wph9l5ehaaglt8">https://meeting.kashanu.ac.ir/guest-join/z4qlq3wph9l5ehaaglt8</a></td>
                   </tr>
 
@@ -58,7 +58,7 @@
                   </tr>
 
                                   <tr>
-                    <td>Tuesday-Invited Speaker</td>
+                    <td>Tuesday-Invited Speaker-(D. A. Mojdeh)</td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/jkq40ln3fpqcn13pkmg4">https://meeting.kashanu.ac.ir/guest-join/jkq40ln3fpqcn13pkmg4</a></td>
                   </tr>
 
