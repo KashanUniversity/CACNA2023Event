@@ -34,7 +34,7 @@
             <h2>قابل توجه کلیه شرکت کنندگان محترم کنفرانس</h2>
             <p style="text-align: justify;">
 
-              <table width="100%" border="1">
+<!--               <table width="100%" border="1">
                 <thead>
                 <tr>
                   <td colspan="2">سه شنبه صبح</td>
@@ -77,7 +77,7 @@
 
 
 		<br><br>
-
+ -->
 
               <table width="100%" border="1">
                 <thead>
@@ -106,11 +106,11 @@
                   </tr>
 
 
-                  <tr>
-                    <td>Tuesday-Keynote Speaker Graph and Computer Science</td>
+<!--                   <tr>
+                    <td>Tuesday-Keynote Speaker </td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/8940zb0h272ckyv43n08">https://meeting.kashanu.ac.ir/guest-join/8940zb0h272ckyv43n08</a></td>
                   </tr>
-
+ -->
 
                   <tr>
                     <td>Tuesday-Graph(A)</td>
@@ -120,7 +120,7 @@
 
 
                   <tr>
-                    <td>Tuesday-(P. Stanimirovic)_Keynote Speaker</td>
+                    <td>Tuesday-(A. Shukur)_Keynote Speaker</td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/5my4tek13ujccptd1rlg">https://meeting.kashanu.ac.ir/guest-join/5my4tek13ujccptd1rlg</a></td>
                   </tr>
 
@@ -149,7 +149,7 @@
 
 
                   <tr>
-                    <td>Tuesday-(Jalili)_Keynote Speaker</td>
+                    <td>Tuesday-(Jalili)_Keynote Speaker_Graph and Computer Science</td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/xk8fwtn5rbq5k533r110">https://meeting.kashanu.ac.ir/guest-join/xk8fwtn5rbq5k533r110</a></td>
                   </tr>
 
