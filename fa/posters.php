@@ -1,4 +1,8 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 $posters_data = 'اکرامی	سید خلیل 	جبر	A fixed point Approach to Almost Orthogonally Quadratic	https://video.kashanu.ac.ir/cacna2023/posters/649c2704b4c0c649c2704b4c0eEkrami - A Fixed Point Approach to Almost Orthogonally Quadratic star-Homomorphisms.mp4
 اکرامی	سید خلیل 	جبر	Almost Hilbert C∗-Module Derivations	https://video.kashanu.ac.ir/cacna2023/posters/649b505138e08649b505138e09Ekrami - Almost Hilbert Cstar-Module derivations.mp4
 پویان	ندا	جبر	on unit-semi boolean rings	https://video.kashanu.ac.ir/cacna2023/posters/649bf3105996b649bf3105996cunit-semi-boolean-poster-neda pouyan.mp4
