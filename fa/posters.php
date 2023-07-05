@@ -32,7 +32,7 @@ PARVEEN	P	Graph	CERTAIN PROPERTIES OF THE ENHANCED POWER GRAPH ASSOCIATEDWITH A 
 تبریزی دوز	حمیدرضا	آنالیز عددی	معرفی یک پایه درروش گالرکین براساس پایه موجک چندگانه لژاندر	https://cacna2023.kashanu.ac.ir/newposters/64a32db5661a364a32db5661a5فیلم پوستر تبریزی دوز.mp4
 عسگری	جلال	بهینه سازی	he improved bounds for the Seidel and Laplacian Seidel energy	https://cacna2023.kashanu.ac.ir/newposters/64a2a3682900564a2a36829007cacna2023-poster-en-askari.pptx
 سلطانی	زینب	بهینه سازی	On a non-compact Minimax Theorem	https://video.kashanu.ac.ir/cacna2023/posters/649aa13a9dca7649aa13a9dca9زینب سلطانی (2).mp4
-بای	عاطفه	بهینه سازی	یک روش گرادیان مزدوج اصلاح شده برای حل مسائل بهینه سازی ناهموار در بازسازی تصویر	https://video.kashanu.ac.ir/cacna2023/newposters/64a207b214eb064a207b214eb2vcompress_3.mov 
+بای	عاطفه	بهینه سازی	یک روش گرادیان مزدوج اصلاح شده برای حل مسائل بهینه سازی ناهموار در بازسازی تصویر	https://cacna2023.kashanu.ac.ir/newposters/64a49226a28dc64a49226a28ddvcompress_5.mov
 نامی	محمد مهدی	آموزش ریاضی	مزایای استفاده از هوش مصنوعی در آموزش ریاضیات	https://cacna2023.kashanu.ac.ir/newposters/64a30c51af0c664a30c51af0c8Rec 0003.mp4
 اکبری	فاطمه	بهینه سازی	بررسی تدوین ابزار بهره وری در تحقیق در عملیات (مطالعه موردی شرکت های موفق)	
 حسن خانی	محمد	گراف	A note on the specctrum of a graph';
