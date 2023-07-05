@@ -37,7 +37,7 @@ PARVEEN	P	Graph	CERTAIN PROPERTIES OF THE ENHANCED POWER GRAPH ASSOCIATEDWITH A 
 اکبری	فاطمه	بهینه سازی	بررسی تدوین ابزار بهره وری در تحقیق در عملیات (مطالعه موردی شرکت های موفق)	
 حسن خانی	محمد	گراف	A note on the specctrum of a graph';
 $posters = explode("\n", $posters_data);
-foreach ($posters as $i => $poster_line) { $posters[$i] = explode("\t", $poster_line); }
+foreach ($posters as $i => $poster_line) { $posters[$i] = explode("	", $poster_line); }
 ?>
 <!DOCTYPE html>
 <html lang="fa_IR" dir="rtl">
