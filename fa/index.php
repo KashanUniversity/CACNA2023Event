@@ -23,7 +23,7 @@ $is_home = true;
         <section class="normal" style="padding-bottom: 0px;">
             <h2>برنامه زمانی جلسه و ارائه های کنفرانس</h2>
             <p>
-                 <a href="program.php">
+                 <a href="posters.php">
                     <font color="blue">
                         جهت مشاهده اسامی مقاله های پذیرش شده پوستری اینجا کلیک کنید.
                     </font>
