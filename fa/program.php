@@ -79,7 +79,7 @@
 		<br><br>
  -->
 
-              <table width="100%" border="1">
+<!--               <table width="100%" border="1">
                 <thead>
                 <tr>
                   <td colspan="2">سه شنبه عصر</td>
@@ -104,14 +104,14 @@
                     <td>Tuesday-Algebra(B)</td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/c8wbm1vgqyv6w7tfo04e">https://meeting.kashanu.ac.ir/guest-join/c8wbm1vgqyv6w7tfo04e</a></td>
                   </tr>
-
+ -->
 
 <!--                   <tr>
                     <td>Tuesday-Keynote Speaker </td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/8940zb0h272ckyv43n08">https://meeting.kashanu.ac.ir/guest-join/8940zb0h272ckyv43n08</a></td>
                   </tr>
  -->
-
+<!-- 
                   <tr>
                     <td>Tuesday-Graph(A)</td>
                     <td><a href="https://meeting.kashanu.ac.ir/guest-join/bl1obdxjs9y3p2o5i2y2">https://meeting.kashanu.ac.ir/guest-join/bl1obdxjs9y3p2o5i2y2</a></td>
@@ -163,7 +163,7 @@
 
 
 		<br><br>
-
+ -->
 
 
               <table width="100%" border="1">
