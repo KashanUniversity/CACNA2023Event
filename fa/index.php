@@ -24,6 +24,13 @@ $is_home = true;
             <h2>برنامه زمانی جلسه و ارائه های کنفرانس</h2>
             <p>
                  <a href="program.php">
+                    <font color="blue">
+                        جهت مشاهده اسامی مقاله های پذیرش شده پوستری اینجا کلیک کنید.
+                    </font>
+                </a>
+                <br>
+
+                 <a href="program.php">
                     <font color="red">
                         جهت مشاهده جدول برنامه زمانی و نشانی اتاق‌های آنلاین کنفرانس اینجا کلیک کنید.
                     </font>
@@ -37,13 +44,13 @@ $is_home = true;
                 </a>
                 <br>
                 <a href="/5july.pdf">
-                    <font color="red">
+                    <font color="green">
                         مشاهده برنامه زمانی چهار شنبه 14ام تیرماه 1402
                     </font>
                 </a>
                 <br>
                 <a href="/6july.pdf">
-                    <font color="red">
+                    <font color="green">
                         مشاهده برنامه زمانی پنج شنبه 15ام تیرماه 1402
                     </font>
                 </a>
