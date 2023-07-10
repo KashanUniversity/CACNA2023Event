@@ -3,7 +3,7 @@
     <img src="/logo.png" alt="University of Kashan">
     <h1>
         <span>4th</span>
-        Conference on Computational Algebra, Computational Number Theory and Applications
+        International Conference on Computational Algebra, Computational Number Theory and Applications
         (Memorial of Professor Alireza Ashrafi)
     </h1>
     <h2>
